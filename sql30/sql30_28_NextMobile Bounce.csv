@@ -1,0 +1,621 @@
+subscriberkey,eventdate,jobid,domain,bouncecategory,smtpbouncereason
+003500M7Q93CKG2je2,2024-02-16 13:47,799561,qq.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500339Kgli7N5t9,2024-02-09 1:53,765497,shutterfly.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500oS7XRqSuGyQ2,2024-02-23 16:35,765497,51.la,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035003Xgg2dDhmjRB,2024-02-21 23:45,799561,shutterfly.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500Sr76b5k8V6n7,2024-02-01 4:50,765497,time.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+00350013N3k4H5ICng,2024-02-09 21:06,765497,craigslist.org,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500RaRoz9F7h0E1,2024-02-24 8:29,765497,dmoz.org,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500BGQMu6tBvkBO,2024-02-28 13:42,799561,meetup.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035005L9L6il5M069,2024-02-17 3:35,745491,loc.gov,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035008rcy57yumuP2,2024-02-07 10:43,745491,answers.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035000L19GUIxvc3Y,2024-02-22 20:42,765497,ibm.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035003O1qhXg6R870,2024-02-23 8:54,765497,dmoz.org,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035009iCQ14Zd8Ehu,2024-02-24 5:50,745491,usatoday.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500N4AR9YgXz1bd,2024-02-26 22:36,799561,devhub.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500GOojWHIn4EOl,2024-02-05 2:07,765497,japanpost.jp,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035008aXB7XKrPmP8,2024-02-21 8:26,765497,wunderground.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500gR8c9C6IMXj2,2024-02-25 14:55,799561,wisc.edu,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500uK0PAjW9keUp,2024-02-26 20:57,765497,dyndns.org,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500flk1N8d59J8O,2024-02-08 1:15,745491,sohu.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035005I6K3T3mFmtY,2024-02-19 18:13,745491,theguardian.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500OvvjQA6saV20,2024-02-19 7:28,745491,hubpages.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+00350098040043zVN8,2024-02-07 1:05,745491,illinois.edu,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500F00np6ZIczKh,2024-02-21 17:34,745491,facebook.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500l3hW3o8G14uW,2024-02-25 22:03,745491,youtube.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035006Az5dq9S8h11,2024-02-04 18:40,799561,paginegialle.it,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500Y8z340Bu22bm,2024-02-23 17:37,799561,apache.org,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500oNdm26460Oh6,2024-02-23 3:35,799561,w3.org,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500ydrQ42clsNBt,2024-02-13 7:19,765497,economist.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+00350077Tns52dd504,2024-02-07 15:39,799561,elpais.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500lVp9KJ4vFDvM,2024-02-01 13:38,765497,clickbank.net,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500Q1THpJI1q4od,2024-02-28 15:12,765497,domainmarket.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500U5s4v0k5M6zQ,2024-02-04 3:36,745491,wikia.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035009vArDME34yjO,2024-02-20 18:12,799561,spiegel.de,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500I2JVj0e32rc6,2024-02-18 21:55,765497,sourceforge.net,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035006hLm2gnw9qBc,2024-02-04 3:38,765497,washington.edu,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035006305els4r2Oa,2024-02-24 3:17,745491,w3.org,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500uDsG2WCYNs3s,2024-02-09 20:57,745491,discovery.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035009y2VpvfwX5xX,2024-02-16 3:57,799561,ameblo.jp,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500Nl3uv4dHh9p9,2024-02-09 10:28,799561,about.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500R71ql360rQB1,2024-02-17 12:42,765497,apache.org,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+00350040xG4s8O0d97,2024-02-26 9:58,745491,netscape.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500Dx5pB3939316,2024-02-12 12:13,745491,cmu.edu,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500683z71wcV98h,2024-02-23 8:01,799561,tmall.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500L2opLW35xtPz,2024-02-11 13:38,745491,phpbb.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035007Bo0aS32BJ45,2024-02-10 0:12,799561,spotify.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500fOugv88VcV16,2024-02-03 3:52,765497,ifeng.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035008M0gEQ7tf84s,2024-02-06 17:32,799561,webs.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035009S5V0F83IWEj,2024-02-18 16:07,765497,fc2.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500rT74o9UceN26,2024-02-22 3:19,799561,slideshare.net,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035000TXz3w03I0LG,2024-02-17 13:40,799561,xrea.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+00350092JBia5iO8KP,2024-02-26 23:00,765497,bravesites.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500TOi9xMNM5699,2024-02-15 8:39,799561,ow.ly,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035002LqcCzE3H31U,2024-02-24 21:00,765497,hugedomains.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500o7A9d4qPby31,2024-02-27 4:43,799561,go.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500fTITU7DGb30k,2024-02-01 14:06,765497,shareasale.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+00350046v93XyUfh01,2024-02-06 11:38,745491,examiner.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500j0yhN2s03RWS,2024-02-27 2:42,799561,harvard.edu,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500VDN5i3NkoGOW,2024-02-07 18:42,745491,so-net.ne.jp,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500scrhJs1HqjIE,2024-02-04 4:07,765497,amazonaws.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500h4JFxVwEiFD6,2024-02-23 11:33,765497,apache.org,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035004a7wptJ4t96F,2024-02-21 1:30,799561,vimeo.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500O0yRL1y9KvQD,2024-02-14 16:23,745491,cargocollective.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035001WqvubXH4X50,2024-02-17 18:00,799561,unblog.fr,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500AsEpVJxOb9Qx,2024-02-08 19:29,799561,biblegateway.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500BDIa153NYoMD,2024-02-03 4:10,765497,cyberchimps.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500Q51kh2LVX65V,2024-02-13 21:20,765497,jimdo.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035004iivu1Gw2G33,2024-02-17 15:15,765497,yahoo.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+00350003aY7Gxy6S7z,2024-02-14 10:52,765497,aboutads.info,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500cm9UM26A9bU8,2024-02-18 3:57,765497,simplemachines.org,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500H6H2cdbS2fFZ,2024-02-15 23:25,745491,wordpress.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035007kk5SX58ZKOz,2024-02-18 0:39,745491,mapy.cz,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500Cj39nTG7BZ71,2024-02-08 13:29,799561,networkadvertising.org,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035006fuL40B1Yyjb,2024-02-21 1:03,765497,gov.uk,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500uEoO3LAf359F,2024-02-23 23:25,799561,eepurl.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+00350043o14C9clCly,2024-02-25 3:06,745491,qq.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500FTtvKawXH41d,2024-02-02 4:23,799561,examiner.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035003rdPYx78xOcI,2024-02-09 8:32,765497,opensource.org,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500k0ao15ExTl4Y,2024-02-18 9:10,765497,cloudflare.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500lWD831KRT2qt,2024-02-23 6:09,765497,surveymonkey.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500s2n63T7422Tl,2024-02-25 6:44,745491,fastcompany.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035000b1SfncoZGDd,2024-02-02 18:36,765497,macromedia.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500QzsqP45hyRl2,2024-02-27 22:30,745491,oracle.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500NoX143wc0nZi,2024-02-13 5:32,799561,usa.gov,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035006m7mCVX2t9h7,2024-02-21 9:36,799561,hp.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035005rpDObIEf7zh,2024-02-09 11:41,799561,joomla.org,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500BV5gQ6VBzYID,2024-02-14 4:26,799561,unc.edu,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500MJ8g855olhce,2024-02-12 9:27,765497,mit.edu,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500R2CFF8UZHKvG,2024-02-02 22:16,745491,imgur.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035004P3qHJ2ETHz6,2024-02-05 3:37,765497,walmart.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035003vwG00pU7KB6,2024-02-28 16:38,745491,amazonaws.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500689QgUW52WUQ,2024-02-25 12:24,765497,amazon.de,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500J2Zar50Y6xFU,2024-02-27 17:17,765497,toplist.cz,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500w19O21j35cDi,2024-02-26 17:32,745491,gmpg.org,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500V5GBRYFcVCF0,2024-02-01 13:50,765497,myspace.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500vc1qylNjU7qb,2024-02-24 14:12,799561,dailymotion.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500w93ohrIAHe0h,2024-02-20 8:20,745491,mysql.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035007Crh77lA618P,2024-02-26 9:07,765497,wunderground.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500vwV8UWK8BXF6,2024-02-25 0:22,765497,de.vu,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035007sh0XhWOc0uG,2024-02-16 21:49,799561,ifeng.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500M2cE7oe9NFUZ,2024-02-02 15:57,765497,diigo.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500LsE3WgES1STt,2024-02-10 5:18,799561,paginegialle.it,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500rW0PlP1j33E3,2024-02-16 8:16,799561,jalbum.net,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500D07gx51e0w49,2024-02-12 7:39,765497,indiegogo.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500T425ag5q836N,2024-02-15 6:57,799561,dot.gov,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+00350080ILlZGJ22zK,2024-02-25 14:14,765497,ted.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500TQtpvoXQp1H3,2024-02-25 12:17,745491,usa.gov,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500IltcE351K71G,2024-02-28 7:00,799561,istockphoto.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500UVWe2t11d96D,2024-02-21 10:38,765497,ftc.gov,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500Ld4VTzDIuJi0,2024-02-01 1:42,799561,imdb.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+00350038x1Q83nA5l6,2024-02-06 20:10,799561,artisteer.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500Ww4dl3Xu35f4,2024-02-25 11:28,799561,ycombinator.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500oMXV4P569QRW,2024-02-08 4:20,745491,gmpg.org,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500j7tuH99llaGq,2024-02-02 23:49,799561,dropbox.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500I52Ck42S66hx,2024-02-15 16:08,799561,guardian.co.uk,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035001O5jYk1YJw65,2024-02-17 8:24,799561,mit.edu,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500m4O17tFf15dh,2024-02-03 16:41,799561,merriam-webster.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500Tmrdg1d8kEHS,2024-02-08 8:21,745491,who.int,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500LN5eoSW0mFKe,2024-02-03 22:15,745491,virginia.edu,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035003Y7JEM54A8iT,2024-02-10 14:47,745491,examiner.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500N85rmM1UV7gZ,2024-02-27 7:42,765497,multiply.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500mbTQl0I7Ixw0,2024-02-19 0:33,745491,smugmug.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035007Z1fSX6Dk4rQ,2024-02-08 5:06,799561,latimes.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500k4v23wk1Rk8x,2024-02-15 17:35,745491,facebook.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+00350029JrN3Uh23RO,2024-02-21 22:05,745491,webmd.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035006Bp2tK6QXd25,2024-02-20 23:05,765497,homestead.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035006UA878E03l1A,2024-02-27 9:32,765497,fotki.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500BSC86k8J7g01,2024-02-06 9:47,765497,scribd.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500Ad7GvPk53W3d,2024-02-27 1:33,799561,bluehost.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500e47qH2X3BBcW,2024-02-27 21:14,799561,hhs.gov,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500Xk03D69LZun2,2024-02-16 16:35,765497,addthis.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500yP5dn79m6urq,2024-02-05 7:45,745491,admin.ch,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500u3xBl6Uw4L7m,2024-02-26 22:57,745491,hao123.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500dxuF5cwjp07h,2024-02-05 23:37,799561,opensource.org,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500MC738MVUb81b,2024-02-10 8:00,765497,cnn.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035007zG2HV32Eh32,2024-02-11 4:55,765497,blogs.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035008IbR14se9TD9,2024-02-10 0:39,765497,state.tx.us,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500Vw9xrDldby32,2024-02-19 5:22,799561,mysql.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035006DD2hq03LTUT,2024-02-25 20:29,799561,netscape.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500eslU3A7Fj7G3,2024-02-21 17:27,745491,ebay.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+00350084uo886DHrDb,2024-02-28 14:28,799561,ezinearticles.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500a42212d5W826,2024-02-27 16:02,765497,1und1.de,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035004yKP4zzWisjH,2024-02-20 23:11,799561,google.it,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500L3KvJ13l7YIS,2024-02-06 15:25,765497,chicagotribune.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500JbbH76Od1Tea,2024-02-26 20:20,765497,macromedia.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500mMxW25G2R7QZ,2024-02-02 22:17,745491,cdbaby.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035002aAowk63QeJO,2024-02-09 20:30,765497,soundcloud.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500P9pODuN0jwtI,2024-02-05 16:56,765497,altervista.org,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035000tS8hz8AAlRg,2024-02-04 19:08,765497,joomla.org,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500MuNq358WbRs7,2024-02-24 3:18,799561,rambler.ru,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500p6D3p0DWBa6O,2024-02-12 16:47,765497,tripod.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500rbHRuu2zrAR2,2024-02-06 15:58,745491,nih.gov,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035007d5ifYxgSYSh,2024-02-03 8:49,799561,guardian.co.uk,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500tuUshz0KLxs9,2024-02-23 10:39,765497,about.me,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035006nK6uUMMk0Dg,2024-02-10 23:08,799561,ovh.net,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500KQcx1XK81UIW,2024-02-06 12:09,745491,businesswire.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500N71o4owF86pt,2024-02-06 20:23,799561,facebook.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035008SZC9q6QjTdZ,2024-02-05 6:18,745491,ifeng.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500v5o9O8C42L2q,2024-02-17 6:56,799561,twitpic.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035006D3IuA7O0fsS,2024-02-20 5:49,765497,weibo.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500Z9Z4H9vD1m07,2024-02-04 10:12,799561,java.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500yYfKRIdkZAwK,2024-02-01 12:15,745491,yandex.ru,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500q3th00hlURA0,2024-02-28 10:48,745491,discuz.net,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035006fDg6DFSm34e,2024-02-25 6:37,799561,google.ru,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500ka7t61oU0n9B,2024-02-17 17:32,745491,comsenz.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500Zs6s2zj1bo7k,2024-02-20 4:29,799561,army.mil,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500Y0MEoDP7VLb9,2024-02-02 12:35,799561,wix.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500EAt2wyw3IIgI,2024-02-17 0:44,745491,businessinsider.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500diigi29cu2vY,2024-02-28 6:47,799561,wiley.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500q9u08pt23wW0,2024-02-08 2:02,799561,europa.eu,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035007Ygt061hD3I4,2024-02-09 9:57,799561,fastcompany.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500vd2P39uD9A9F,2024-02-27 13:53,799561,chronoengine.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035001Biv15iSBQ77,2024-02-21 13:44,765497,scientificamerican.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035007u37z527zb2B,2024-02-05 4:47,799561,stanford.edu,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500WEyt13CtVgmT,2024-02-13 15:51,745491,jugem.jp,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035002vJ4t6FuiEhl,2024-02-12 19:46,745491,clickbank.net,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035004B752NfIz8xh,2024-02-26 23:07,745491,nasa.gov,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500T07914RnCD1g,2024-02-10 5:30,765497,answers.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500z929rT188Ihv,2024-02-21 13:18,799561,list-manage.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500v941LL10YNMG,2024-02-14 2:55,799561,google.fr,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500I6qGE48t5Fn2,2024-02-08 5:16,745491,wikispaces.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500856OnMVb4D0Y,2024-02-07 13:23,745491,mozilla.org,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500t61dK52Zj1Zb,2024-02-24 2:44,765497,elegantthemes.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500GQ2c0731aT97,2024-02-15 19:52,765497,earthlink.net,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500log9I3624a0G,2024-02-23 21:09,745491,com.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+00350072n2l4n3qGn3,2024-02-02 23:12,745491,irs.gov,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035002AiPES5C5D76,2024-02-23 14:00,745491,plala.or.jp,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035006KUqtc29t6wY,2024-02-25 0:47,745491,mac.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500MAf5FNFoUTtf,2024-02-22 10:39,799561,newsvine.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500dg4X5NO3N7sU,2024-02-22 9:06,745491,bravesites.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500lc4Tsyt8mqcm,2024-02-18 18:57,799561,mayoclinic.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500vwnqy800Ml35,2024-02-28 15:22,799561,purevolume.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+00350057vCb4sc4301,2024-02-08 12:27,765497,bbc.co.uk,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500913ZDix7s5h3,2024-02-16 20:37,765497,disqus.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500A39T12EAwfje,2024-02-11 0:00,799561,addthis.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500OC3sNU3pyrrG,2024-02-19 21:37,745491,mayoclinic.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500flQfOQxu3uFR,2024-02-07 14:49,745491,fc2.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500Un2g7d0CIV64,2024-02-12 23:29,745491,blog.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500h5TGE5Q56Cl9,2024-02-19 3:05,745491,berkeley.edu,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500Y15Z1x0le33v,2024-02-09 17:56,765497,example.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500L7vJvQZSfiU2,2024-02-28 3:42,765497,linkedin.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500uY9q3SmRn44F,2024-02-13 6:50,799561,moonfruit.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500P7ImOR6r5WDT,2024-02-21 9:05,799561,comsenz.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500UYuJiK726qJ8,2024-02-18 2:02,799561,angelfire.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035002460CKF72695,2024-02-16 1:24,745491,seattletimes.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500C822642I6m6w,2024-02-19 22:03,799561,mashable.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500UXAT931P60Lv,2024-02-27 3:01,765497,shutterfly.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500dqD85T7dGlFB,2024-02-08 14:11,799561,prweb.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500Q7t0aJLhkP17,2024-02-16 7:13,745491,fc2.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500RH41JjfM84YG,2024-02-08 17:36,765497,wikimedia.org,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500AW6l0t814Izh,2024-02-20 8:12,799561,yale.edu,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500P4JBAE7H0NuX,2024-02-17 7:02,745491,merriam-webster.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500BEE1Ho6ME0PZ,2024-02-11 19:27,765497,stanford.edu,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035004i5JgdLX89W7,2024-02-04 2:20,765497,si.edu,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500h2F6bdOlI33z,2024-02-23 1:38,745491,bravesites.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500V5ttgzfwq53W,2024-02-17 17:31,765497,nba.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500w2C2Cp536aWt,2024-02-06 8:37,799561,studiopress.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500oLKL95OQC2K2,2024-02-13 10:16,745491,seattletimes.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+00350053e63OZfRP60,2024-02-07 10:56,799561,wiley.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+00350086XAOlm5X11w,2024-02-16 15:17,765497,illinois.edu,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500InKbEnCUG58r,2024-02-16 15:38,745491,ft.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500S9LKFd3u5Mz4,2024-02-11 1:23,765497,qq.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+00350086q3Y3ET68Yp,2024-02-24 13:01,765497,samsung.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500XE2ZuoB4LDVg,2024-02-22 16:47,765497,quantcast.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500II4Rf3V6XMmL,2024-02-11 21:01,745491,ftc.gov,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500JTc5050dCvcU,2024-02-27 9:16,799561,jimdo.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500F082Z3r3MJ2S,2024-02-14 12:08,799561,auda.org.au,Hard Bounced,5.1.2 (bad destination system: no such domain)
+00350031Kld8yClXC7,2024-02-02 3:04,799561,businessweek.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500fgWvb2967PZ2,2024-02-21 12:33,799561,w3.org,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500Oso0dLmOA649,2024-02-17 5:04,799561,tripod.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500N29qETM6vgCZ,2024-02-06 19:10,799561,home.pl,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500LP1c4AB8FEke,2024-02-17 15:58,765497,amazon.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500Rqwk2MWbuy8t,2024-02-18 21:59,765497,icq.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+00350069eVKyJMB91h,2024-02-24 8:46,745491,sohu.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500xde9K8qos2B0,2024-02-22 12:56,745491,yelp.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500hu7nSC08ap4A,2024-02-09 16:36,799561,disqus.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500W6n7zG9eOmxM,2024-02-10 11:52,745491,csmonitor.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500xjkifEGsc177,2024-02-23 6:24,799561,skyrock.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+00350098bBJpI0tOEo,2024-02-15 21:50,765497,tinyurl.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500UaQAZbl2Td7d,2024-02-03 23:43,765497,tinypic.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+00350096R1tGJKl884,2024-02-04 14:03,799561,redcross.org,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035009QYRaSHZxqQW,2024-02-24 8:21,799561,usgs.gov,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500NwVjvLuK2mH3,2024-02-04 22:02,745491,ovh.net,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500395RWMk34B95,2024-02-12 17:26,799561,weibo.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035002vLukDdG6e9P,2024-02-20 1:28,799561,ocn.ne.jp,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035005U0LL59bs4pt,2024-02-09 6:06,745491,cbsnews.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+00350018qAt9pmP9ON,2024-02-10 12:18,765497,ebay.co.uk,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500KW63uRwRLkv9,2024-02-08 1:43,745491,fc2.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500GWA45mF6GfWt,2024-02-13 17:03,765497,spiegel.de,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500A1eIRd6B5s57,2024-02-20 5:50,745491,goo.ne.jp,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500T4wyk7WU9j4p,2024-02-10 11:07,745491,uiuc.edu,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500J0L3E6j3CNfZ,2024-02-27 11:19,745491,skype.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500TjX1Z09Sa135,2024-02-14 17:38,799561,cornell.edu,Hard Bounced,5.1.2 (bad destination system: no such domain)
+00350039Bj8eVuc657,2024-02-19 1:17,745491,mayoclinic.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035003c3jT2tlJtI5,2024-02-12 3:00,745491,cafepress.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500mFZeu1edNk2l,2024-02-13 3:30,799561,abc.net.au,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500OKDWwg91bEgW,2024-02-10 22:29,765497,mozilla.org,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500nRdG2sp05ioj,2024-02-10 6:20,799561,kickstarter.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500hI7Cp4q74NmM,2024-02-02 3:26,799561,nsw.gov.au,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500En0uYVN74XCE,2024-02-11 14:18,745491,walmart.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500se14JmU32YhW,2024-02-09 4:02,765497,storify.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035001L6Rp0Pf25dG,2024-02-26 14:59,745491,topsy.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035000ytHv6vCrUoi,2024-02-10 21:26,745491,mapy.cz,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500V4goNW9WdiL6,2024-02-24 23:08,745491,adobe.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500rJLf39z312O0,2024-02-27 1:51,799561,myspace.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500m3jjR3S8d408,2024-02-09 11:40,745491,behance.net,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500F3HusU9PiDxb,2024-02-14 15:07,799561,cdbaby.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035001tu4eJNs2wwp,2024-02-26 8:36,799561,xinhuanet.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500WNCFa8i9mLD8,2024-02-12 15:58,745491,blogspot.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500j12IospCgI2a,2024-02-12 19:43,745491,free.fr,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500hwIE9I5jWi7b,2024-02-17 7:30,745491,wisc.edu,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035003ZVpsNlpn40V,2024-02-08 23:50,765497,webeden.co.uk,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500vNk009Y7d355,2024-02-08 8:08,765497,dot.gov,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500pmFONlsf3bAe,2024-02-20 15:53,745491,facebook.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035009wUDRKg75Cfr,2024-02-16 0:06,745491,barnesandnoble.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500BvqRZqf3oA6a,2024-02-26 5:38,745491,state.gov,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035004ik1s0svcOcT,2024-02-13 0:17,799561,amazonaws.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500igfHdh18x7dV,2024-02-19 17:01,765497,cdbaby.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500wL16l6fSv4Hd,2024-02-07 3:01,799561,epa.gov,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500zFesH2wD60xW,2024-02-22 15:10,799561,nytimes.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500UapYfMDceIGr,2024-02-20 6:03,745491,smugmug.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035006HKo3OTa0k7J,2024-02-27 2:55,765497,java.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035002s7Nq05EF8xD,2024-02-19 7:59,745491,aboutads.info,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500NNi20dX5N48B,2024-02-07 11:08,799561,usnews.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035006W1b63W58xDD,2024-02-15 16:27,765497,imageshack.us,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500dH1x9pVtV26u,2024-02-19 8:47,765497,addtoany.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500ahT05CviC39Z,2024-02-11 22:50,799561,nydailynews.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500aum78SWcKyze,2024-02-11 3:58,799561,usda.gov,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500a5aJ1C4HX9WT,2024-02-04 14:50,799561,bigcartel.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035009a1f11C9aVaU,2024-02-15 4:15,745491,sitemeter.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035005Pz9N3OsIw9S,2024-02-20 14:16,799561,quantcast.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500aI5YD5CG9V00,2024-02-01 10:52,799561,discovery.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035008TA9yOys0041,2024-02-13 2:16,799561,eepurl.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035003Fl137Q3d3qv,2024-02-01 21:07,765497,nytimes.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500gA6JnVljQ6C8,2024-02-17 0:18,799561,jigsy.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035006J26t0jIB697,2024-02-01 8:06,765497,auda.org.au,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500j8Zk5Ut311Yr,2024-02-26 15:31,745491,fc2.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035003QdbQV5ACTe8,2024-02-25 23:59,745491,irs.gov,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500Ao4iXrcpDurV,2024-02-02 19:57,745491,skyrock.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500uC3ZpVOyL2tH,2024-02-07 16:06,765497,icio.us,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500n0gb8ie40bb8,2024-02-19 22:32,765497,live.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500J68QFWrf7IWP,2024-02-28 15:09,765497,tripod.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+00350089PyAWZ0esRx,2024-02-07 21:37,745491,alexa.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500cShFUm3ac4gQ,2024-02-15 14:55,765497,wufoo.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+00350001YmW09QK4zA,2024-02-17 10:50,745491,reverbnation.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500dJ715Xcp7LAk,2024-02-25 20:57,799561,uiuc.edu,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500N2zvLyaFQ82q,2024-02-16 23:20,765497,joomla.org,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500re29J3351kf9,2024-02-05 1:49,745491,live.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500o3sS96o99I43,2024-02-22 22:00,799561,amazon.de,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035007wc9l8dg3z6c,2024-02-16 1:43,765497,friendfeed.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+00350039yX48I6VkE6,2024-02-03 10:55,745491,live.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035007MEGFS38N55F,2024-02-05 13:43,765497,tinyurl.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500pMgt8vx52NOc,2024-02-07 6:25,745491,vistaprint.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500m8fqulK0dAm2,2024-02-27 4:37,799561,a8.net,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500G74Gl81jIz88,2024-02-24 13:13,799561,goo.gl,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500AvnQ8h9sqtu2,2024-02-13 3:01,745491,newsvine.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500173HM3eL5fTX,2024-02-10 11:37,745491,npr.org,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500RUqMvos4Nfr1,2024-02-04 3:35,799561,hao123.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500Bd683eeSnZi9,2024-02-28 4:49,765497,sciencedaily.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500LJ3eRQiwh8v0,2024-02-13 9:12,745491,narod.ru,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500T5fqoOt140A8,2024-02-12 9:45,765497,mtv.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500atxqDjOhTlG4,2024-02-15 3:23,799561,live.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500i2eMbdi03ylb,2024-02-06 11:47,799561,liveinternet.ru,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500O695RaO6b8k0,2024-02-12 4:06,799561,so-net.ne.jp,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500viI6n6i7ow17,2024-02-04 20:42,799561,fda.gov,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500HvlMlTis3sMo,2024-02-23 16:28,765497,fastcompany.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500A8iV9tJQ68A5,2024-02-23 3:56,745491,freewebs.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500HlE3SYSfR06T,2024-02-26 10:46,799561,hatena.ne.jp,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035009pspHe8rho3g,2024-02-04 22:28,765497,dailymail.co.uk,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500pvAqq5ZlWD18,2024-02-26 1:49,745491,cdc.gov,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500tMWa6hLSZR7s,2024-02-24 20:18,745491,mail.ru,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+00350011T0WQN6L892,2024-02-01 2:44,765497,washingtonpost.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500JZPp11t1JvtL,2024-02-03 20:42,765497,stumbleupon.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500B3a6aixUq68F,2024-02-08 15:15,799561,bloomberg.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500xCzSIKo3g6Zp,2024-02-01 0:35,799561,wikimedia.org,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500MFEp0i330gOJ,2024-02-27 5:18,765497,google.ca,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500aXNQm6foM9I3,2024-02-08 1:15,765497,paginegialle.it,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500Zyd0gg2ikv52,2024-02-21 12:43,765497,chronoengine.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500I5sFZp2866fG,2024-02-21 22:51,765497,free.fr,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500ecp978m2TL64,2024-02-08 23:47,745491,clickbank.net,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500b2dh3V1YOw6t,2024-02-02 9:39,799561,deliciousdays.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+00350022Ue6a0fpQHC,2024-02-19 13:21,799561,spotify.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500WKc2KN176k85,2024-02-15 10:50,799561,tuttocitta.it,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500QQM481GZ3NFj,2024-02-15 1:48,765497,independent.co.uk,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500zBujWw21I36n,2024-02-06 19:39,745491,plala.or.jp,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500K4u90zgQ7h9A,2024-02-13 0:24,799561,icq.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035001zMjJu1E8KPd,2024-02-05 8:56,799561,state.gov,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500M78lp53csb0X,2024-02-02 15:33,745491,biblegateway.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035001tt3BBU244ge,2024-02-11 19:59,765497,gizmodo.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500P5ys6aJwkuoN,2024-02-11 15:59,745491,instagram.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035000Lx0iLE6todJ,2024-02-27 11:33,765497,epa.gov,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035003rtMAN8hxEMr,2024-02-16 23:06,765497,google.com.au,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500kmv5rNGZ9rq1,2024-02-22 21:13,765497,dyndns.org,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500uIYQTB26kwnB,2024-02-06 22:25,765497,meetup.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+00350058dSB2Z93Oyy,2024-02-12 16:12,745491,cornell.edu,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500wiiA2ziXS033,2024-02-24 17:18,799561,networksolutions.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500g1I2j9g6nEVM,2024-02-28 15:41,745491,123-reg.co.uk,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500MauCd2t5Vt33,2024-02-17 5:23,745491,shutterfly.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+00350026J6V0AWLsd2,2024-02-12 15:36,765497,unblog.fr,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500ZZbw99bMj0JS,2024-02-27 5:58,765497,mac.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500tbLnm7H78RLQ,2024-02-07 13:49,799561,pcworld.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+00350062Z0x939pqC8,2024-02-11 0:36,745491,hostgator.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035002ly2fYan8V5J,2024-02-01 10:32,765497,hud.gov,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500Z5VY6kYsI5LJ,2024-02-09 0:04,799561,zimbio.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500n77Oy1O8uXuO,2024-02-04 2:48,745491,independent.co.uk,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+00350084ZF3p08X4fS,2024-02-06 11:30,745491,google.it,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035003nK33vU0y5vS,2024-02-17 22:41,745491,imageshack.us,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500i3DmdB6MVBr0,2024-02-19 5:30,745491,devhub.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035009XtDO64w1w2m,2024-02-16 12:58,765497,com.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500st68p4seDPXf,2024-02-04 18:59,799561,netvibes.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500888a2jQtQBS6,2024-02-15 4:18,745491,nasa.gov,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035006O8qH5W8AA3Z,2024-02-08 8:19,799561,miitbeian.gov.cn,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035008rYt02UMKZ8A,2024-02-27 19:11,799561,scientificamerican.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500K4MLeS60SHJ6,2024-02-20 22:01,799561,businesswire.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500v1G6SHz76Hy4,2024-02-25 16:46,765497,dyndns.org,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500v7PpUn8jggx1,2024-02-26 0:33,765497,harvard.edu,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500Z8iPgFVm3L5D,2024-02-17 2:23,745491,squidoo.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035003ZSN3EjT1Dln,2024-02-21 21:58,745491,blinklist.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500DbcXaJe64OE7,2024-02-16 9:53,745491,smh.com.au,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500BPrAV0l3Os4g,2024-02-13 21:25,799561,nifty.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500LAoKnK9c4O2w,2024-02-15 12:08,799561,aboutads.info,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500nriRxYFLNUNR,2024-02-10 12:58,745491,google.co.jp,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035000AQ51SGIUaIJ,2024-02-26 12:14,799561,dagondesign.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035008h44XwbE21N8,2024-02-21 13:12,765497,weibo.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500IUQv80JmV4RS,2024-02-24 20:58,765497,ebay.co.uk,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035008K7zi1d12Y4E,2024-02-24 0:34,745491,hibu.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035001rkz6EFX7eAg,2024-02-23 3:54,765497,oaic.gov.au,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035009ebQVW06smS4,2024-02-03 8:20,745491,bizjournals.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035004CsBQ84jtADN,2024-02-15 13:52,765497,wufoo.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500K9xL4gf1k8MV,2024-02-17 2:15,745491,oracle.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+00350098rfLkUlL4vM,2024-02-21 23:07,765497,jimdo.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+00350015ExSP93wyqy,2024-02-17 7:55,765497,squarespace.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500x1kOs78Z17Xe,2024-02-06 2:51,799561,com.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500xw1W1u0ZGqaL,2024-02-05 6:59,765497,blogtalkradio.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035001IvBl058a0uR,2024-02-15 13:31,745491,hud.gov,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035008tOwSsU7F6kx,2024-02-17 0:43,799561,wordpress.org,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035004x8a8zs4EA1F,2024-02-07 6:17,799561,mozilla.org,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500x4YZ2ccPNiF0,2024-02-15 3:50,799561,mac.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500384Mno4Y0urE,2024-02-20 6:28,745491,free.fr,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035002XykHpV9Iw1i,2024-02-21 22:34,745491,github.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500RmS3c5H433aB,2024-02-06 17:27,799561,youtu.be,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500oF1GvWfa2E2A,2024-02-26 8:25,745491,desdev.cn,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035005WQA540B6q36,2024-02-13 2:14,765497,washington.edu,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500rN9g8Wa4yf6U,2024-02-04 3:53,765497,cisco.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500g2DxQOpBtXp7,2024-02-08 16:20,799561,utexas.edu,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500B30gxJz6HLkg,2024-02-07 15:18,745491,dropbox.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500Y3TSu0Us0pQX,2024-02-21 0:14,765497,smh.com.au,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500332fMyiW4bSr,2024-02-16 7:34,765497,earthlink.net,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500a1HStQ3n7Q1P,2024-02-26 23:42,765497,php.net,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+00350021Bf8xXV1399,2024-02-23 8:50,765497,opera.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+00350072Fu4z80YkJb,2024-02-27 12:18,765497,ustream.tv,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035009TKe2TX5O400,2024-02-19 2:42,765497,blogger.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035006g3DrEuX1irY,2024-02-20 7:14,765497,ow.ly,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035004Ocxfpy8d1PR,2024-02-10 10:01,745491,mozilla.org,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500bcSG2KOnXTYZ,2024-02-15 1:46,765497,usgs.gov,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500nk5Sw153L796,2024-02-23 14:53,799561,examiner.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500ou6m7nwoM97f,2024-02-20 23:00,765497,phoca.cz,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500z3gvw5rI7575,2024-02-25 9:14,765497,liveinternet.ru,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035009Hy8xWstsWZd,2024-02-17 12:56,765497,economist.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500GrHQOL2gN4tk,2024-02-02 20:14,799561,instagram.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500s8xjcs5gSOp7,2024-02-08 1:28,799561,hatena.ne.jp,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500i0u6fS4TF5ob,2024-02-27 11:32,799561,ftc.gov,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035006OEqU5BM8iIU,2024-02-09 8:09,799561,arstechnica.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+00350050FU62h93L2Y,2024-02-11 3:47,799561,marriott.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500RM8KG5TuAj18,2024-02-02 8:00,799561,bigcartel.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500UwMRXAT27ijt,2024-02-07 8:03,745491,merriam-webster.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500dkfZapy8p1k6,2024-02-08 0:46,799561,bbc.co.uk,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035000cR0E2vOfV9I,2024-02-22 11:24,799561,twitter.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500lR3NlUoOYb4T,2024-02-01 1:52,765497,wikipedia.org,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500l9pSvTJJtAJ1,2024-02-13 5:25,799561,plala.or.jp,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500tnz21UQ3nFgg,2024-02-08 2:22,765497,delicious.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500Z83a5bEctq30,2024-02-06 16:43,799561,amazon.co.jp,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500gDN711iM7wUw,2024-02-08 17:41,799561,clickbank.net,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500s56Sn5342hl2,2024-02-27 14:21,799561,skyrock.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500J0I0Hp2ZIjXJ,2024-02-19 23:43,799561,yellowbook.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500dC1uSg7AVxO5,2024-02-05 10:34,799561,newyorker.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035000cct2du76PK6,2024-02-28 10:23,799561,cmu.edu,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500r92x0JB68FrW,2024-02-09 23:52,745491,chron.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500il37mIF4FgH7,2024-02-27 3:56,765497,loc.gov,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500fH0wu7I96wPy,2024-02-22 0:34,765497,diigo.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500OxsizVzz30DU,2024-02-07 11:24,799561,1688.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035004b80lnYawf8v,2024-02-17 7:29,765497,jimdo.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500emxykY34PTXp,2024-02-11 20:39,799561,wikimedia.org,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500N2B93XlWF0jB,2024-02-08 0:49,765497,sfgate.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500Ss682eYL8Jb8,2024-02-26 19:45,745491,sciencedaily.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035005E90RTRaRZFi,2024-02-04 1:56,745491,desdev.cn,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500mL8Wjgj0YOiT,2024-02-01 14:37,745491,acquirethisname.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500CmJDUy2Z0y25,2024-02-21 13:37,799561,smugmug.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500HqJvkA1hs98g,2024-02-28 1:51,745491,qq.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035009po7cNb44080,2024-02-09 5:58,745491,constantcontact.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+00350098w3Oci5LXFK,2024-02-23 9:46,765497,adobe.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500T4nG07oeszvc,2024-02-07 17:22,745491,google.es,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500j1TnE9R6VFC2,2024-02-28 18:17,765497,quantcast.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500tu83uv0QMijI,2024-02-15 6:02,745491,netscape.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500O4Vw8mX97YAT,2024-02-15 10:38,799561,nymag.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500eX85gHI1SFtP,2024-02-20 9:54,745491,wiley.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500KYwZ7bGySsY7,2024-02-24 9:42,799561,over-blog.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500fx8rnDC6ws8x,2024-02-28 6:49,799561,hp.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500VLReF3KzVS8l,2024-02-16 7:20,799561,businessweek.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035001191jYWL583y,2024-02-16 6:05,765497,msu.edu,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500A24o2PH8GIw0,2024-02-09 2:52,745491,sohu.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500w6yaXe7E2P8f,2024-02-11 2:57,745491,oaic.gov.au,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500iKoiifIO24fw,2024-02-04 22:19,765497,utexas.edu,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500Lb6uVG7YKA0g,2024-02-03 19:42,799561,multiply.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+00350072m74A3t32p9,2024-02-09 13:35,765497,wikimedia.org,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+00350045A3bKaTMsTg,2024-02-22 15:34,799561,forbes.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500oVL7G00f8Z03,2024-02-19 15:27,745491,qq.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035001gDF3Kx16TKI,2024-02-19 6:42,745491,github.io,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+00350005025X71HuU7,2024-02-19 23:51,765497,wisc.edu,Hard Bounced,5.1.2 (bad destination system: no such domain)
+00350077276mVu8zlf,2024-02-01 10:23,799561,taobao.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035002f4phh10J135,2024-02-05 6:03,765497,icq.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500jfvOM6nIc8aO,2024-02-26 20:37,799561,telegraph.co.uk,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500iz89fu9331OX,2024-02-10 1:15,745491,mashable.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500YG19aOSPOLB7,2024-02-03 10:40,765497,constantcontact.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+00350016n29oo4khP8,2024-02-12 0:00,799561,youtu.be,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+00350064p57IY8xO37,2024-02-28 15:36,799561,cdbaby.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500BX64bY9H09ay,2024-02-27 7:40,745491,ustream.tv,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035009uSP25tlv1Kb,2024-02-18 6:50,745491,hhs.gov,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035000WTotT1hZdzj,2024-02-28 11:55,745491,elpais.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035004ESVD6x3N2VZ,2024-02-01 1:03,765497,1688.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035004CZ55874dM8f,2024-02-24 20:19,745491,unesco.org,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035004lWT0bi8Mb02,2024-02-16 11:47,765497,bizjournals.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+00350081HVSkl56w2f,2024-02-19 6:47,765497,wiley.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035004292uOsx1LUZ,2024-02-10 1:31,745491,nyu.edu,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500e7SM5I5QFh54,2024-02-21 14:37,745491,google.pl,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+00350057T1U2n8Zl6G,2024-02-22 17:44,765497,hugedomains.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035008Xw4lPx20b1P,2024-02-06 15:20,765497,topsy.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+00350021ei88r120kN,2024-02-05 0:35,745491,canalblog.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500X5kSCHJ36jnH,2024-02-27 2:30,799561,mayoclinic.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035008OPxC0Y4t2yT,2024-02-19 4:30,745491,sogou.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500QA4N9Q7mw8p9,2024-02-16 4:20,799561,freewebs.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500NnIU0YurGi5R,2024-02-23 12:29,745491,opera.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500FM733bKpykUb,2024-02-21 4:02,799561,123-reg.co.uk,Hard Bounced,5.1.2 (bad destination system: no such domain)
+00350025fH3m382U5i,2024-02-01 22:44,765497,example.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500q0w5kgaPd90p,2024-02-23 3:43,765497,upenn.edu,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500rylCQjOkE03s,2024-02-05 14:55,799561,t.co,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500q9132n07K0BV,2024-02-27 13:47,745491,tinyurl.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500Zb16u5ZC2lXI,2024-02-02 13:06,765497,dmoz.org,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500199Tm1DX32GC,2024-02-09 18:25,745491,ed.gov,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500VxAlzwUzKErs,2024-02-01 5:19,799561,barnesandnoble.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500k9zTpN29wGts,2024-02-14 22:52,745491,cnbc.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500v405TS8Trvz2,2024-02-25 17:58,799561,elpais.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500S2H4s3T37yli,2024-02-13 14:43,799561,amazon.co.jp,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500u08AyCR0d5T9,2024-02-24 14:56,765497,altervista.org,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035000kfOAP3f6q86,2024-02-20 9:37,745491,youtu.be,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500NJM3uu4GfR17,2024-02-13 2:43,799561,wired.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500I3aho217qNoL,2024-02-05 18:11,745491,squidoo.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500gt09EO29lWiF,2024-02-01 10:21,799561,flickr.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035005103UXST65YO,2024-02-27 7:52,799561,mac.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500l7tvrc9G4AR2,2024-02-12 14:37,799561,bigcartel.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035001Jt1iGE89Gli,2024-02-04 22:57,765497,unicef.org,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500S0sw0KdVX0Pc,2024-02-03 1:11,765497,yellowpages.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035009PxIE8XUl8iF,2024-02-09 14:36,765497,oakley.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500VWPf5Et2364l,2024-02-08 4:50,745491,marketwatch.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500ZfFX1C6YsNML,2024-02-26 17:28,799561,mozilla.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035006G04CHGVr2Vo,2024-02-28 11:37,765497,geocities.jp,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035001PuG4n7yop3Z,2024-02-12 18:13,745491,ask.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035007ck8vr313ojO,2024-02-20 15:30,765497,reverbnation.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500923Yd4sSY3V2,2024-02-14 22:57,799561,geocities.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500KIAOMVh037VR,2024-02-11 11:21,799561,mit.edu,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500Llpwq2ToWxx4,2024-02-06 13:45,745491,europa.eu,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500Ef5Gh03iE817,2024-02-15 7:40,799561,vkontakte.ru,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035000h075s0PFhf1,2024-02-02 17:05,799561,soup.io,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500FRgwQW3ZbxfQ,2024-02-06 14:59,765497,instagram.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500oOwL2rC19O8A,2024-02-05 21:50,799561,ihg.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500FVbw1142fbq6,2024-02-06 19:23,799561,gizmodo.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500Xh1xGI88tIby,2024-02-06 0:11,745491,networkadvertising.org,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035006RWizoJy25w8,2024-02-06 11:26,799561,t.co,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500FJkUt0AYXQ50,2024-02-10 13:33,745491,nhs.uk,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035004EUW2ZdF89I0,2024-02-06 12:10,745491,amazonaws.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500c2yn019wihgL,2024-02-05 21:01,799561,bbb.org,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500Ly5VNkbu83UL,2024-02-19 14:44,745491,google.ru,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500ct501GE609TH,2024-02-21 23:05,745491,netvibes.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500kbDJo0lijHnW,2024-02-04 23:42,799561,multiply.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500viWUPlNzMIxX,2024-02-06 20:50,745491,fda.gov,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500d3Ksk85lPF6U,2024-02-22 10:25,765497,disqus.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035007mxvk7w3sHym,2024-02-13 22:11,745491,hud.gov,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+00350043f8Q3Pf5rbA,2024-02-06 0:20,765497,ifeng.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+00350083eid2k0G9eC,2024-02-16 9:09,765497,boston.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500X7utuDkbM969,2024-02-09 12:54,745491,thetimes.co.uk,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500U4z30uZbB97W,2024-02-26 17:41,799561,berkeley.edu,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500uo4a57f5zCt2,2024-02-15 0:57,765497,biblegateway.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+0035008x0aemD0c17B,2024-02-24 0:11,765497,chicagotribune.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500608Q65joyS1q,2024-02-28 16:30,799561,foxnews.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035002YV3Rf7FolZ8,2024-02-14 23:57,765497,foxnews.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500An3Wdvn9ittv,2024-02-02 3:14,765497,mapy.cz,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500MAdCt2669Asd,2024-02-21 2:33,765497,usgs.gov,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500bbxRG37v92nr,2024-02-16 7:58,765497,cbc.ca,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500h2NF1MT9oLyo,2024-02-16 2:30,765497,yellowpages.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500l8KpawYdjIt8,2024-02-05 8:09,799561,aboutads.info,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500eixePTfwZx6X,2024-02-10 14:15,745491,free.fr,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500T0hv35NAbLp2,2024-02-02 14:21,765497,canalblog.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500q8ah18C8MHk7,2024-02-15 5:46,765497,army.mil,Hard Bounced,5.1.2 (bad destination system: no such domain)
+00350056LDM77ssts6,2024-02-17 22:35,799561,myspace.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+00350020b63yV5Sv13,2024-02-23 7:06,799561,youtube.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500Wvh5TBLB8hq1,2024-02-26 16:22,745491,shareasale.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500NG12z9Nn3LU5,2024-02-19 18:15,799561,blog.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500BOYb5OEUH455,2024-02-13 5:18,765497,state.gov,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500sQ2ZIc647b3t,2024-02-02 8:57,765497,senate.gov,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500pp3HpfT34N12,2024-02-15 3:16,799561,yellowbook.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500X5UpnF320gMu,2024-02-04 14:49,765497,economist.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500g5Jg43GFKsZ1,2024-02-19 10:27,765497,dot.gov,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500hqU1u5BZ4H0i,2024-02-02 18:16,745491,cam.ac.uk,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500x97FXeko1Ta4,2024-02-06 11:49,765497,themeforest.net,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035004CU6GdQdtwqG,2024-02-05 7:27,745491,pcworld.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500Kjvx0rqu1832,2024-02-15 8:35,799561,vk.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500bR47Xie0ghKx,2024-02-01 12:05,745491,networkadvertising.org,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500nc2Xik69RO7g,2024-02-22 13:25,799561,opera.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500G13TipebHTQu,2024-02-23 13:39,765497,com.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035005JDA8Jd38E42,2024-02-23 8:18,745491,biblegateway.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500C9NOfM403gH7,2024-02-24 10:30,745491,howstuffworks.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500k37g84zehbdL,2024-02-25 21:14,765497,yolasite.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500vPhe4u0a3788,2024-02-15 23:55,765497,fastcompany.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500iEDx2VU4soUv,2024-02-04 0:18,765497,redcross.org,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500CUxN9p85z3n4,2024-02-21 13:23,765497,domainmarket.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500n4rq9p7nlhcf,2024-02-08 22:57,799561,craigslist.org,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035004eKQRAhpr070,2024-02-06 21:37,765497,blogspot.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500QZuUuv21zf1J,2024-02-04 1:53,745491,devhub.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500r84T4zkK8xb2,2024-02-06 9:20,765497,mlb.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035005xklM0MO9Mgk,2024-02-06 18:44,745491,dyndns.org,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035000Y783ZSAnYFG,2024-02-24 13:35,745491,cam.ac.uk,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035004dNrG87mlX6e,2024-02-08 0:27,799561,hexun.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500dtbK9U27abPM,2024-02-01 6:10,799561,ftc.gov,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500Mu9s1JN4Q6D1,2024-02-01 11:54,745491,altervista.org,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500C6tp95RK3M4D,2024-02-17 0:08,799561,springer.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500Q2s1vEJ9Dw7K,2024-02-01 18:56,799561,umich.edu,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500Y1Bj7CroGM24,2024-02-15 20:57,765497,tamu.edu,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500IX56rpt21Z4a,2024-02-13 23:12,799561,free.fr,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500P351IXnjF8bQ,2024-02-11 16:18,745491,cisco.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+00350042w9X544DjKy,2024-02-11 16:40,799561,sphinn.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500L5V7Z0w7NbmS,2024-02-28 10:12,765497,ameblo.jp,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500l5905y6nXfd1,2024-02-21 23:38,745491,geocities.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500sez63H7OJY1R,2024-02-02 5:44,765497,wordpress.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500va1EOI0NWd02,2024-02-24 17:44,799561,ning.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500jkqeMzsd50m5,2024-02-12 10:24,745491,hugedomains.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500Fs0pGtX87dJ9,2024-02-22 22:05,799561,acquirethisname.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035007iB1md1qM90m,2024-02-19 5:38,745491,flickr.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500e8ACd53JHn8V,2024-02-20 0:01,799561,live.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+00350026tH54R2sRj7,2024-02-12 14:28,799561,google.com.hk,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500LhRAcuwJxpBz,2024-02-05 13:02,799561,newsvine.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035000s55b93o8m5y,2024-02-20 9:22,745491,ox.ac.uk,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500qia36V43b243,2024-02-15 13:22,765497,a8.net,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500eKt6R27r8l5x,2024-02-03 17:11,799561,instagram.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500VBW2FeR0K6uo,2024-02-22 2:01,745491,intel.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035000Z9WKBUgbT5C,2024-02-02 16:21,745491,disqus.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500U3isxh8Q4CdS,2024-02-08 19:50,745491,liveinternet.ru,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035002LO49KgJ6teM,2024-02-01 16:18,765497,macromedia.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500udQ7PlQN09zb,2024-02-16 5:37,745491,irs.gov,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500VQUDKM9k30A5,2024-02-09 20:37,799561,parallels.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500I223Zq5EiY24,2024-02-22 6:24,799561,youtu.be,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+003500D9Sz0d5HOCWk,2024-02-13 9:51,799561,geocities.jp,Hard Bounced,5.1.2 (bad destination system: no such domain)
+0035007UJju1264C80,2024-02-07 23:46,765497,lycos.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+0035005IELslBkD1VX,2024-02-15 15:48,765497,arstechnica.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500uXUb01Z9y6WC,2024-02-03 8:38,765497,google.de,Hard Bounced,5.1.2 (bad destination system: no such domain)
+003500WzAM7nZRf9k4,2024-02-02 0:15,765497,mapy.cz,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500T3i6B71Xnzd2,2024-02-15 7:05,799561,hostgator.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
+0035004c4702Lyi9BA,2024-02-18 3:32,745491,mlb.com,Hard Bounced,5.1.1 (bad destination mailbox address) User Unknown
+003500827ij2R58zkh,2024-02-09 0:19,765497,ehow.com,Hard Bounced,5.1.2 (bad destination system: no such domain)
+00350043DT52gs2gR6,2024-02-02 7:28,799561,nytimes.com,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+003500qLYLf2M9lEyh,2024-02-26 18:26,799561,miibeian.gov.cn,Hard Bounced,5.0.0 (undefined status) Invalid Recipient
+00350018fm2S7HiP31,2024-02-18 12:30,799561,bravesites.com,Hard Bounced,5.4.1 (no answer from host) Recipient address rejected: Access denied.
