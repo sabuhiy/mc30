@@ -1,0 +1,76 @@
+FirstName,LastName,Email,Company,Country,Phone,Plan_Type__c,Buying_Intent_Score
+Sarah,Chen,sarah.chen@techforge.io,TechForge,United States,+1-555-1000,Premium,98
+Miguel,Nguyen,miguel.nguyen@denversystems.io,Denver Systems,United States,+1-555-1001,Premium,100
+Priya,Andersson,priya.andersson@cascaderetail.com,Cascade Retail Group,United States,+1-555-1002,Basic,47
+James,Reyes,james.reyes@lakesidehealth.com,Lakeside Health Partners,United States,+1-555-1003,Enterprise,13
+Emma,Adebayo,emma.adebayo@summittelecom.com,Summit Telecom,United States,+1-555-1004,Basic,70
+Liam,Berg,liam.berg@brightlinelog.com,Brightline Logistics,United States,+1-555-1005,Premium,24
+Olivia,Patel,olivia.patel@patriotwireless.com,Patriot Wireless,United States,+1-555-1006,Enterprise,50
+Noah,Rossi,noah.rossi@cedarparkmedia.com,Cedar Park Media,United States,+1-555-1007,Basic,17
+Ava,Tanaka,ava.tanaka@gulfcoastfoods.com,Gulf Coast Foods,United States,+1-555-1008,Basic,36
+Lucas,Murphy,lucas.murphy@northstarclinics.com,Northstar Clinics,United States,+1-555-1009,Premium,10
+Sofia,Petrov,sofia.petrov@bayareadevices.io,Bay Area Devices,United States,+1-555-1010,Basic,94
+Mateo,Romano,mateo.romano@sierraconnect.com,Sierra Connect,United States,+1-555-1011,Enterprise,12
+Aisha,Thompson,aisha.thompson@midwestsupply.com,Midwest Supply Co,United States,+1-555-1012,Basic,18
+Daniel,Dubois,daniel.dubois@libertydata.io,Liberty Data Works,United States,+1-555-1013,Basic,8
+Chloe,Costa,chloe.costa@riversidepharma.com,Riverside Pharma,United States,+1-555-1014,Premium,75
+Omar,Sharma,omar.sharma@pioneernetworks.com,Pioneer Networks,United States,+1-555-1015,Basic,28
+Hana,Wang,hana.wang@mapleleafmobile.ca,Maple Leaf Mobile,Canada,+1-555-1016,Basic,85
+Ethan,Lindqvist,ethan.lindqvist@torontohealth.ca,Toronto Health Systems,Canada,+1-555-1017,Basic,29
+Maya,Kim,maya.kim@vantechlabs.ca,Vancouver Tech Labs,Canada,+1-555-1018,Enterprise,10
+Diego,Khan,diego.khan@prairieretail.ca,Prairie Retail Ltd,Canada,+1-555-1019,Enterprise,2
+Nina,Schmidt,nina.schmidt@monterreycom.mx,Monterrey Comunicaciones,Mexico,+52-555-1020,Premium,96
+Carlos,Mendez,carlos.mendez@gdlsalud.mx,Guadalajara Salud,Mexico,+52-555-1021,Basic,23
+Yuki,Ahmadi,yuki.ahmadi@iberiadigital.es,Iberia Digital,Spain,+34-555-1022,Basic,46
+Henry,Santos,henry.santos@manchestermedia.co.uk,Manchester Media,United Kingdom,+44-555-1023,Basic,41
+Isabella,Okafor,isabella.okafor@thamestelecom.co.uk,Thames Telecom,United Kingdom,+44-555-1024,Basic,30
+Raj,Lopez,raj.lopez@berlindatahaus.de,Berlin DataHaus,Germany,+49-555-1025,Basic,4
+Lena,Ito,lena.ito@lyonsante.fr,Lyon Sante,France,+33-555-1026,Premium,32
+Tomas,Park,tomas.park@milanoretail.it,Milano Retail,Italy,+39-555-1027,Premium,90
+Grace,Diallo,grace.diallo@mumbaitelecom.in,Mumbai Telecom,India,+91-555-1028,Basic,80
+Kofi,Walker,kofi.walker@bengalurusystems.in,Bengaluru Systems,India,+91-555-1029,Premium,33
+Anya,Muller,anya.muller@sydneyconnect.com.au,Sydney Connect,Australia,+61-555-1030,Basic,55
+Pablo,Brown,pablo.brown@sghealthhub.sg,Singapore HealthHub,Singapore,+65-555-1031,Basic,16
+Mei,Ferrari,mei.ferrari@spvarejo.com.br,Sao Paulo Varejo,Brazil,+55-555-1032,Premium,3
+Samuel,Moreau,samuel.moreau@capetownnet.co.za,Cape Town Networks,South Africa,+27-555-1033,Enterprise,26
+Zara,Hassan,zara.hassan@dubaitech.ae,Dubai Tech Holdings,United Arab Emirates,+971-555-1034,Basic,44
+Felix,Garcia,felix.garcia@techforge.io,TechForge,United States,+1-555-1035,Basic,77
+Amara,Silva,amara.silva@denversystems.io,Denver Systems,United States,+1-555-1036,Premium,68
+Victor,Haddad,victor.haddad@cascaderetail.com,Cascade Retail Group,United States,+1-555-1037,Enterprise,35
+Leila,Novak,leila.novak@lakesidehealth.com,Lakeside Health Partners,United States,+1-555-1038,Premium,34
+Marcus,OConnor,marcus.oconnor@summittelecom.com,Summit Telecom,United States,+1-555-1039,Premium,89
+Sarah,Chen,sarah.chen@brightlinelog.com,Brightline Logistics,United States,+1-555-1040,Basic,21
+Miguel,Nguyen,miguel.nguyen@patriotwireless.com,Patriot Wireless,United States,+1-555-1041,Premium,6
+Priya,Andersson,priya.andersson@cedarparkmedia.com,Cedar Park Media,United States,+1-555-1042,Premium,7
+James,Reyes,james.reyes@gulfcoastfoods.com,Gulf Coast Foods,United States,+1-555-1043,Basic,27
+Emma,Adebayo,emma.adebayo@northstarclinics.com,Northstar Clinics,United States,+1-555-1044,Basic,42
+Liam,Berg,liam.berg@bayareadevices.io,Bay Area Devices,United States,+1-555-1045,Enterprise,19
+Olivia,Patel,olivia.patel@sierraconnect.com,Sierra Connect,United States,+1-555-1046,Basic,22
+Noah,Rossi,noah.rossi@midwestsupply.com,Midwest Supply Co,United States,+1-555-1047,Premium,39
+Ava,Tanaka,ava.tanaka@libertydata.io,Liberty Data Works,United States,+1-555-1048,Basic,61
+Lucas,Murphy,lucas.murphy@riversidepharma.com,Riverside Pharma,United States,+1-555-1049,Basic,49
+Sofia,Petrov,sofia.petrov@pioneernetworks.com,Pioneer Networks,United States,+1-555-1050,Basic,15
+Mateo,Romano,mateo.romano@mapleleafmobile.ca,Maple Leaf Mobile,Canada,+1-555-1051,Basic,45
+Aisha,Thompson,aisha.thompson@torontohealth.ca,Toronto Health Systems,Canada,+1-555-1052,Premium,2
+Daniel,Dubois,daniel.dubois@vantechlabs.ca,Vancouver Tech Labs,Canada,+1-555-1053,Basic,51
+Chloe,Costa,chloe.costa@prairieretail.ca,Prairie Retail Ltd,Canada,+1-555-1054,Premium,9
+Omar,Sharma,omar.sharma@monterreycom.mx,Monterrey Comunicaciones,Mexico,+52-555-1055,Basic,5
+Hana,Wang,hana.wang@gdlsalud.mx,Guadalajara Salud,Mexico,+52-555-1056,Premium,56
+Ethan,Lindqvist,ethan.lindqvist@iberiadigital.es,Iberia Digital,Spain,+34-555-1057,Basic,72
+Maya,Kim,maya.kim@manchestermedia.co.uk,Manchester Media,United Kingdom,+44-555-1058,Premium,58
+Diego,Khan,diego.khan@thamestelecom.co.uk,Thames Telecom,United Kingdom,+44-555-1059,Basic,67
+Nina,Schmidt,nina.schmidt@berlindatahaus.de,Berlin DataHaus,Germany,+49-555-1060,Basic,38
+Carlos,Mendez,carlos.mendez@lyonsante.fr,Lyon Sante,France,+33-555-1061,Enterprise,79
+Yuki,Ahmadi,yuki.ahmadi@milanoretail.it,Milano Retail,Italy,+39-555-1062,Basic,65
+Henry,Santos,henry.santos@mumbaitelecom.in,Mumbai Telecom,India,+91-555-1063,Basic,53
+Isabella,Okafor,isabella.okafor@bengalurusystems.in,Bengaluru Systems,India,+91-555-1064,Enterprise,14
+Raj,Lopez,raj.lopez@sydneyconnect.com.au,Sydney Connect,Australia,+61-555-1065,Basic,40
+Lena,Ito,lena.ito@sghealthhub.sg,Singapore HealthHub,Singapore,+65-555-1066,Basic,60
+Tomas,Park,tomas.park@spvarejo.com.br,Sao Paulo Varejo,Brazil,+55-555-1067,Premium,92
+Grace,Diallo,grace.diallo@capetownnet.co.za,Cape Town Networks,South Africa,+27-555-1068,Premium,83
+Kofi,Walker,kofi.walker@dubaitech.ae,Dubai Tech Holdings,United Arab Emirates,+971-555-1069,Premium,20
+Anya,Muller,anya.muller@techforge.io,TechForge,United States,+1-555-1070,Premium,63
+Pablo,Brown,pablo.brown@denversystems.io,Denver Systems,United States,+1-555-1071,Premium,87
+Mei,Ferrari,mei.ferrari@cascaderetail.com,Cascade Retail Group,United States,+1-555-1072,Basic,11
+Samuel,Moreau,samuel.moreau@lakesidehealth.com,Lakeside Health Partners,United States,+1-555-1073,Enterprise,81
+Zara,Hassan,zara.hassan@summittelecom.com,Summit Telecom,United States,+1-555-1074,Premium,73
