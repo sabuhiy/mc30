@@ -19,7 +19,7 @@ Marketing Cloud Next pulls the email footer address from the org's **Company Inf
 2. Set Address `123 Innovation Drive`, City `San Francisco`, State `California`, Zip `94105`, Country `United States`
 3. Save
 
-If this is missing, the email footer will show a placeholder or fail validation when sending a test.
+If this is missing, the email footer will show a placeholder instead of the address.
 
 ## How to Use
 
