@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!--
+  Sample external website form for Next30 Day 26 (Form Handler).
+  This represents a form already hosted on nextinc.xyz. To connect it:
+    1. Create a Form Handler in Marketing Cloud with a Lead data source.
+    2. Map each field below by its `name` attribute (case-sensitive, no spaces).
+    3. Replace [HANDLER-ID] with the id from the handler's "Form Attributes".
+    4. Paste the handler's Tracking Script just before </body>.
+    5. Add this site's domain to the CORS Allowlist in Setup.
+-->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Request a Business Quote — Next</title>
+  <style>
+    body { font-family: Arial, Helvetica, sans-serif; max-width: 480px; margin: 40px auto; color: #2C3E50; }
+    label { display: block; margin: 12px 0 4px; font-weight: bold; }
+    input { width: 100%; padding: 8px; box-sizing: border-box; }
+    button { margin-top: 16px; padding: 10px 18px; background: #02A550; color: #fff; border: 0; border-radius: 6px; cursor: pointer; }
+    .hp { position: absolute; left: -9999px; }  /* honeypot: hidden from humans */
+  </style>
+</head>
+<body>
+  <h1>Request a Business Quote</h1>
+  <p>Tell us about your business and a Next specialist will follow up.</p>
+
+  <form id="[HANDLER-ID]" data-uma-forms="true" method="post">
+    <label for="firstName">First Name</label>
+    <input type="text" id="firstName" name="firstName" required>
+
+    <label for="lastName">Last Name</label>
+    <input type="text" id="lastName" name="lastName" required>
+
+    <label for="emailAddress">Work Email</label>
+    <input type="email" id="emailAddress" name="emailAddress" required>
+
+    <label for="company">Company</label>
+    <input type="text" id="company" name="company" required>
+
+    <!-- Honeypot: bots fill this, humans never see it. Any value blocks the submission. -->
+    <input type="text" id="fax" name="fax" class="hp" tabindex="-1" autocomplete="off">
+
+    <button type="submit">Request a Business Quote</button>
+  </form>
+
+  <!-- Paste the Form Handler "Tracking Script" here, just before </body>. -->
+</body>
+</html>
