@@ -1,5 +1,27 @@
-# Day 23 Resources
+# Day 23 — Personalize an Email with Handlebars
 
-Downloadable resources for Next30 Day 23.
+Read each customer's account-setup progress from a Marketing Object and swap the
+email's hero banner and body copy to match their next unfinished step.
 
-Resources will be added as the challenge is finalized.
+## Contents
+| File | Purpose |
+|------|---------|
+| `account-setup-nudge.html` | Email markup: the Handlebars logic for the HTML-component banner and the Paragraph-component body. |
+| `set-password.png`, `add-card.png`, `connect-rewards.png`, `update-prefs.png`, `all-set.png` | The five hero banners, one per setup step. |
+
+## Hero banners
+| Set password | Add payment | Connect rewards | Update prefs | All set |
+|:---:|:---:|:---:|:---:|:---:|
+| ![](set-password.png) | ![](add-card.png) | ![](connect-rewards.png) | ![](update-prefs.png) | ![](all-set.png) |
+
+## How to use
+1. Upload the five banners to your org; note each image URL.
+2. Clone the previous email, rename it "Account Setup Nudge".
+3. Add an HTML component (banner) + Paragraph component (body); paste the code from
+   `account-setup-nudge.html` and swap in your banner URLs.
+4. Preview with a recipient from the AccountSetupProgress__mo Marketing Object.
+
+Requires the AccountSetupProgress__mo Marketing Object from the previous challenge.
+
+---
+New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
