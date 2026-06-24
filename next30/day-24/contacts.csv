@@ -1,0 +1,19 @@
+FirstName,LastName,Email,Phone,Country,Account_Name,Preferred_Language
+Amara,Okafor,amara.okafor@doodle.com,+1 (415) 623-8841,United States,Doodle,en_US
+Liam,Nakamura,liam.nakamura@doodle.com,+1 (415) 623-9102,United States,Doodle,en_US
+Sofia,Reyes,sofia.reyes@doodle.com,+1 (415) 623-7753,United States,Doodle,en_US
+Priya,Sharma,priya.sharma@pear.com,+1 (512) 841-3304,United States,Pear,en_US
+Ethan,Larsson,ethan.larsson@pear.com,+1 (512) 841-4417,United States,Pear,en_US
+Mei,Chen,mei.chen@pear.com,+1 (512) 841-5590,United States,Pear,en_US
+Youssef,Benali,youssef.benali@bigsoft.ca,+1 (416) 305-2218,Canada,Bigsoft,en_US
+Clara,Tremblay,clara.tremblay@bigsoft.ca,+1 (416) 305-3391,Canada,Bigsoft,fr
+Daniel,Osei,daniel.osei@novalink.com,+1 (303) 712-5543,United States,Novalink,en_US
+Fatima,El-Amin,fatima.elamin@novalink.com,+1 (303) 712-6678,United States,Novalink,en_US
+Marco,Vitale,marco.vitale@novalink.com,+1 (303) 712-7801,United States,Novalink,en_US
+Leonie,Braun,leonie.braun@wavenet.de,+49 170 4823156,Germany,Wavenet,en_US
+Felix,Hoffmann,felix.hoffmann@wavenet.de,+49 170 4823287,Germany,Wavenet,en_US
+Anika,Patel,anika.patel@wavenet.de,+49 170 4823418,Germany,Wavenet,en_US
+Camille,Durand,camille.durand@brightvine.fr,+33 6 12 34 56 78,France,Brightvine,fr
+Noémie,Laurent,noemie.laurent@brightvine.fr,+33 6 12 34 67 89,France,Brightvine,fr
+Thomas,Moreau,thomas.moreau@brightvine.fr,+33 6 12 34 78 90,France,Brightvine,fr
+Elise,Claes,elise.claes@solarahealth.be,+32 4 712 33 41,Belgium,Solara Health,fr
