@@ -1,5 +1,8 @@
-# Day 14 Resources
+# Day 14 - Prevent Duplicate Records
 
-Downloadable resources for Next30 Day 14.
+Add a duplicate check to your giveaway form's flow so repeat entrants reuse their existing record instead of creating a new lead.
 
-Resources will be added as the challenge is finalized.
+This challenge has no downloadable files. You build everything in your Marketing Cloud org by following the challenge.
+
+---
+New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com

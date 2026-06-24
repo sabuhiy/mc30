@@ -1,5 +1,8 @@
-# Day 19 Resources
+# Day 19 - Welcome Series: Measure Engagement
 
-Downloadable resources for Next30 Day 19.
+Turn customer activity into a score with Lead Scoring, then surface that engagement on the contact page for the customer team to see.
 
-Resources will be added as the challenge is finalized.
+This challenge has no downloadable files. You build everything in your Marketing Cloud org by following the challenge.
+
+---
+New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com

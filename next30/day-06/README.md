@@ -1,5 +1,8 @@
-# Day 06 Resources
+# Day 6 - Campaign Setup
 
-Downloadable resources for Next30 Day 06.
+Create a Campaign, set up a single email send with your segment and published email, and prepare for launch.
 
-Resources will be added as the challenge is finalized.
+This challenge has no downloadable files. You build everything in your Marketing Cloud org by following the challenge.
+
+---
+New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com

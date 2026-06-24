@@ -1,5 +1,14 @@
-# Day 16 Resources
+# Day 16 - Welcome Series: Field and Segment Logic
 
-Downloadable resources for Next30 Day 16.
+Kick off a welcome series: sync the account launch date into Data Cloud and build a segment that finds customers the day after they launch.
 
-Resources will be added as the challenge is finalized.
+## Contents
+| File | Purpose |
+|------|---------|
+| `accounts-and-contacts.csv` | Accounts and contacts with launch dates, imported together via the Data Import Wizard. |
+
+## How to use
+1. Import `accounts-and-contacts.csv` with the Data Import Wizard (Accounts and Contacts).
+
+---
+New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com

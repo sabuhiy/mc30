@@ -1,11 +1,23 @@
-# Day 15 — Quick Email Follow-up
+# Day 15 - Quick Email Follow-up
 
-Downloadable resources for Next30 Day 15.
+Thank a room full of meeting attendees the same day by importing them into an actionable list and sending a personalized email, no waiting on Identity Resolution.
 
-Email sending to an actionable list requires consent records. The list import and the consent import can be done in either order, but consent must be in place before the send.
+## Contents
+| File | Purpose |
+|------|---------|
+| `attendees.csv` | Meeting attendees to import into an actionable list. |
+| `consent-optin.csv` | Consent opt-in dates for the attendees. |
+| `thank-you-banner.jpg` | Banner image for the thank-you email. |
 
-| File | Use |
-|------|-----|
-| `attendees.csv` | The 15 attendees to import into the "Product Feedback Attendees" actionable list (via Import from File on the Lead object). Columns: `FirstName`, `LastName`, `Email`, `Company`, `Country`. All US/Canada. |
-| `consent-optin.csv` | Consent records for the same 15 attendees. Columns: `Email`, `Consent Date`. |
-| `thank-you-banner.jpg` | Banner for the thank-you email. Upload it into Content Builder and place it at the top of the email. 1200×480 JPEG (~156 KB). |
+## Preview
+| Thank-you banner |
+|:---:|
+| ![](thank-you-banner.jpg) |
+
+## How to use
+1. Import `attendees.csv` into an actionable list.
+2. Set consent with `consent-optin.csv`.
+3. Build the thank-you email with `thank-you-banner.jpg`.
+
+---
+New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com

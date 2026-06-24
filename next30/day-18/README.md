@@ -1,5 +1,8 @@
-# Day 18 Resources
+# Day 18 - Welcome Series: Trigger the Flow and Review the Data
 
-Downloadable resources for Next30 Day 18.
+Send the welcome automatically with a segment-triggered flow, then review the synced records in Data Explorer and the Query Editor.
 
-Resources will be added as the challenge is finalized.
+This challenge has no downloadable files. You build everything in your Marketing Cloud org by following the challenge.
+
+---
+New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com

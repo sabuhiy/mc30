@@ -1,29 +1,26 @@
-# Day 3 — Email Content Creation
+# Day 3 - Email Content Creation
 
-## Resources
+Build the summer campaign email with brand guidelines, Content Builder elements, and basic personalization.
 
-| File | Description |
-|------|-------------|
-| [brand-spec.md](brand-spec.md) | Next brand guidelines — colors, typography, buttons, borders, spacing |
-| [email-copy.md](email-copy.md) | Summer Data Plan Upgrade email copy — subject, pre-header, body, CTA |
-| [email-sample.html](email-sample.html) | HTML email preview — open in a browser to see the design |
-| [email-final.png](email-final.png) | Screenshot of the finished email — what you're building toward |
-| [next-logo.png](next-logo.png) | Next brand logo (200×80) — upload to CMS image library |
-| [email-hero.png](email-hero.png) | Summer campaign hero illustration (1200×500) — upload to CMS image library |
+## Contents
+| File | Purpose |
+|------|---------|
+| `brand-spec.md` | Brand values (colors, fonts, logo) for setting up the brand in the CMS workspace. |
+| `email-copy.md` | The campaign email copy to build in Content Builder. |
+| `email-hero.png` | Hero image for the campaign email. |
+| `next-logo.png` | The Next logo. |
+| `email-final.png` | Preview of the finished email. |
+| `email-sample.html` | Sample rendered email for reference. |
 
-## Prerequisite
+## Previews
+| Email hero | Finished email | Logo |
+|:---:|:---:|:---:|
+| ![](email-hero.png) | ![](email-final.png) | ![](next-logo.png) |
 
-Marketing Cloud Next pulls the email footer address from the org's **Company Information** record. Before building the email, confirm it's populated:
+## How to use
+1. Set the brand from `brand-spec.md` and add `next-logo.png`.
+2. Build the email with the copy in `email-copy.md` and `email-hero.png`.
+3. Compare your result against `email-final.png` and `email-sample.html`.
 
-1. Salesforce Setup → search **Company Information**
-2. Set Address `123 Innovation Drive`, City `San Francisco`, State `California`, Zip `94105`, Country `United States`
-3. Save
-
-If this is missing, the email footer will show a placeholder instead of the address.
-
-## How to Use
-
-1. Open `brand-spec.md` and configure the brand in your CMS workspace
-2. Upload `next-logo.png` and `email-hero.png` to the email's image library
-3. Use the copy from `email-copy.md` when building the email in Content Builder
-4. Open `email-sample.html` in a browser to see what the finished email should look like
+---
+New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com

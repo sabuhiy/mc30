@@ -1,10 +1,20 @@
-# Day 17 — Welcome Series: Personalize the Email
+# Day 17 - Welcome Series: Personalize the Email
 
-Downloadable resources for Next30 Day 17.
+Bring account fields into the data graph and an activation template, then build a personalized welcome email and preview it against your segment.
 
-Build the personalized welcome email: bring account fields into the data graph, create the activation template that feeds the send, then build the email with merge fields and preview it against your new-customer segment.
+## Contents
+| File | Purpose |
+|------|---------|
+| `welcome-email-copy.md` | Copy for the welcome email. |
+| `hero-welcome.png` | Hero image for the welcome email. |
 
-| File | Use |
-|------|-----|
-| `hero-welcome.png` | Welcome banner for the top of the email. Upload it into Content Builder and place it at the top. 1200×544 PNG. |
-| `welcome-email-copy.md` | The welcome email copy: subject, pre-header, and body with `First Name` and `Account Name` merge-field placeholders. |
+## Preview
+| Welcome hero |
+|:---:|
+| ![](hero-welcome.png) |
+
+## How to use
+1. Build the welcome email using `welcome-email-copy.md` and `hero-welcome.png`.
+
+---
+New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com

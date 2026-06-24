@@ -1,5 +1,8 @@
-# Day 30 Resources
+# Day 30 - Build Your First Campaign with Agentforce
 
-Downloadable resources for Next30 Day 30.
+The finale: brief Agentforce on a real campaign, watch it draft the segment, email, and flow, then review and sign off as the expert you've become.
 
-Resources will be added as the challenge is finalized.
+This challenge has no downloadable files. You build everything in your Marketing Cloud org by following the challenge.
+
+---
+New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com

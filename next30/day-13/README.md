@@ -1,5 +1,8 @@
-# Day 13 Resources
+# Day 13 - Send an Autoresponder Email
 
-Downloadable resources for Next30 Day 13.
+Create a transactional confirmation email and add it to your giveaway form's flow so every entrant gets an instant reply.
 
-Resources will be added as the challenge is finalized.
+This challenge has no downloadable files. You build everything in your Marketing Cloud org by following the challenge.
+
+---
+New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
