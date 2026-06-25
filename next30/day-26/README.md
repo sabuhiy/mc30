@@ -6,8 +6,8 @@ Add a Decision on Plan Type to the onboarding flow, then use Send to a Flow to r
 | File | Purpose |
 |------|---------|
 | `plan-type.csv` | Plan Type values (Basic / Premium / Enterprise) for the welcome-series contacts, used to populate a Plan Type field on the Contact and drive the routing Decision. |
-| `upgrade-nurture-email-copy.md` | Email copy for the upgrade nurture (Basic customers). |
-| `retention-nurture-email-copy.md` | Email copy for the retention nurture (Premium and Enterprise customers). |
+| `upgrade-nurture-email-copy.md` | Email copy for the upgrade nurture (Basic customers). Email name: **Plan Upgrade Nudge**. |
+| `retention-nurture-email-copy.md` | Email copy for the retention nurture (Premium and Enterprise customers). Email name: **Plan Value Reminder**. |
 
 ## How to use
 1. Create a **Plan Type** field on the Contact object (values Basic / Premium / Enterprise).

@@ -1,5 +1,7 @@
 # Retention Nurture: Email Copy
 
+**Email name:** Plan Value Reminder
+
 **Message purpose:** Commercial / marketing (consent applies before send)
 
 **Subject:** Get more from your Next plan, {{First Name}}

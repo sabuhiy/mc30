@@ -1,5 +1,7 @@
 # Upgrade Nurture: Email Copy
 
+**Email name:** Plan Upgrade Nudge
+
 **Message purpose:** Commercial / marketing (consent applies before send)
 
 **Subject:** Ready for more from Next, {{First Name}}?
