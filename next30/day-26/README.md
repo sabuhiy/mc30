@@ -6,11 +6,14 @@ Add a Decision on Plan Type to the onboarding flow, then use Send to a Flow to r
 | File | Purpose |
 |------|---------|
 | `plan-type.csv` | Plan Type values (Basic / Premium / Enterprise) for the welcome-series contacts, used to populate a Plan Type field on the Contact and drive the routing Decision. |
+| `upgrade-nurture-email-copy.md` | Email copy for the upgrade nurture (Basic customers). |
+| `retention-nurture-email-copy.md` | Email copy for the retention nurture (Premium and Enterprise customers). |
 
 ## How to use
 1. Create a **Plan Type** field on the Contact object (values Basic / Premium / Enterprise).
 2. Import `plan-type.csv`, matching on Email, to set each contact's Plan Type.
-3. In the onboarding flow, add a Decision on Plan Type and a Send to a Flow on each branch (Basic to upgrade nurture, Premium and Enterprise to retention).
+3. Build the two nurture flows, using `upgrade-nurture-email-copy.md` and `retention-nurture-email-copy.md` for their first email.
+4. In the onboarding flow, add a Decision on Plan Type and a Send to a Flow on each branch (Basic to upgrade nurture, Premium and Enterprise to retention).
 
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
