@@ -1,8 +1,16 @@
-# Day 27 - Hand Off to a Nurture Flow
+# Day 27 - Connect an Existing Website Form with a Form Handler
 
-Use Send to a Flow to hand finished welcome-series customers to a separate, reusable nurture program instead of overloading one flow.
+Pipe submissions from a form already on Next's website into Salesforce with a Form Handler, no rebuild of the website required.
 
-This challenge has no downloadable files. You build everything in your Marketing Cloud org by following the challenge.
+## Contents
+| File | Purpose |
+|------|---------|
+| `request-a-quote-form.html` | A sample external website form (the starting point) to connect with a Form Handler. |
+
+## How to use
+1. Create a Form Handler with a Lead data source and map the fields to the form's `name` attributes.
+2. Build and activate the flow that creates the Lead (activating publishes the handler).
+3. Add the Form Attributes and Tracking Script to `request-a-quote-form.html`, add the domain to the CORS Allowlist, and submit a test.
 
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com

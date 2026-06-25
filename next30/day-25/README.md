@@ -1,4 +1,4 @@
-# Day 25 - Optimize Send Time and Frequency with Einstein
+# Day 25 - Optimize Send Time with Einstein
 
 Enable Einstein Send Time Optimization and Engagement Frequency so each customer hears from Next at the right moment, and not too often.
 
