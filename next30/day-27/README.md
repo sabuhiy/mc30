@@ -5,12 +5,12 @@ Pipe submissions from a form already on Next's website into Salesforce with a Fo
 ## Contents
 | File | Purpose |
 |------|---------|
-| `request-a-quote-form.html` | A sample external website form (the starting point) to connect with a Form Handler. |
+| `contact-us-form.html` | A sample external Contact Us form (the starting point) to connect with a Form Handler. |
 
 ## How to use
-1. Create a Form Handler with a Lead data source and map the fields to the form's `name` attributes.
+1. Create a Form Handler named **Website Contact Form** with a Lead data source and map the fields to the form's `name` attributes.
 2. Build and activate the flow that creates the Lead (activating publishes the handler).
-3. Add the Form Attributes and Tracking Script to `request-a-quote-form.html`, add the domain to the CORS Allowlist, and submit a test.
+3. Add the Form Attributes and Tracking Script to `contact-us-form.html`, add the domain to the CORS Allowlist, and submit a test.
 
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com

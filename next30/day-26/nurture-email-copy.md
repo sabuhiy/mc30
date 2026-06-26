@@ -1,6 +1,8 @@
-# Upgrade Nurture: Email Copy
+# Nurture Email Copy
 
 **Email name:** Plan Upgrade Nudge
+
+This is the single email inside the **Plan Upgrade Nudge** on-demand nurture flow that every finished customer is handed into.
 
 **Message purpose:** Commercial / marketing (consent applies before send)
 

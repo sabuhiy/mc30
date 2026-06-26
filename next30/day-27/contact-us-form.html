@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!--
-  Sample external website form for Next30 Day 26 (Form Handler).
+  Sample external Contact Us form for Next30 Day 27 (Form Handler).
   This represents a form already hosted on nextinc.xyz. To connect it:
     1. Create a Form Handler in Marketing Cloud with a Lead data source.
     2. Map each field below by its `name` attribute (case-sensitive, no spaces).
@@ -11,7 +11,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Request a Business Quote — Next</title>
+  <title>Contact Us | Next</title>
   <style>
     body { font-family: Arial, Helvetica, sans-serif; max-width: 480px; margin: 40px auto; color: #2C3E50; }
     label { display: block; margin: 12px 0 4px; font-weight: bold; }
@@ -21,7 +21,7 @@
   </style>
 </head>
 <body>
-  <h1>Request a Business Quote</h1>
+  <h1>Contact Us</h1>
   <p>Tell us about your business and a Next specialist will follow up.</p>
 
   <form id="[HANDLER-ID]" data-uma-forms="true" method="post">
@@ -40,7 +40,7 @@
     <!-- Honeypot: bots fill this, humans never see it. Any value blocks the submission. -->
     <input type="text" id="fax" name="fax" class="hp" tabindex="-1" autocomplete="off">
 
-    <button type="submit">Request a Business Quote</button>
+    <button type="submit">Send Message</button>
   </form>
 
   <!-- Paste the Form Handler "Tracking Script" here, just before </body>. -->

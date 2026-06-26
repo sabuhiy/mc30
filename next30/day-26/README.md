@@ -1,19 +1,16 @@
 # Day 26 - Hand Off to a Nurture Flow
 
-Add a Decision on Plan Type to the onboarding flow, then use Send to a Flow to route each finished customer into the right reusable nurture program.
+Add a single Send to a Flow element to the onboarding flow so every finished customer rolls into one reusable nurture program that runs on its own.
 
 ## Contents
 | File | Purpose |
 |------|---------|
-| `plan-type.csv` | Plan Type values (Basic / Premium / Enterprise) for the welcome-series contacts, used to populate a Plan Type field on the Contact and drive the routing Decision. |
-| `upgrade-nurture-email-copy.md` | Email copy for the upgrade nurture (Basic customers). Email name: **Plan Upgrade Nudge**. |
-| `retention-nurture-email-copy.md` | Email copy for the retention nurture (Premium and Enterprise customers). Email name: **Plan Value Reminder**. |
+| `nurture-email-copy.md` | Email copy for the nurture flow. Email name: **Plan Upgrade Nudge**. |
 
 ## How to use
-1. Create a **Plan Type** field on the Contact object (values Basic / Premium / Enterprise).
-2. Import `plan-type.csv`, matching on Email, to set each contact's Plan Type.
-3. Build the two nurture flows, using `upgrade-nurture-email-copy.md` and `retention-nurture-email-copy.md` for their first email.
-4. In the onboarding flow, add a Decision on Plan Type and a Send to a Flow on each branch (Basic to upgrade nurture, Premium and Enterprise to retention).
+1. Build the nurture flow as an **On-Demand Flow** named **Plan Upgrade Nudge**, using `nurture-email-copy.md` for its first email.
+2. In the onboarding flow, after the welcome email, add a **Send to a Flow** element labeled **Nurture Flow** and reference the Plan Upgrade Nudge flow.
+3. Route handed-off customers to **End**, then activate the onboarding flow.
 
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
