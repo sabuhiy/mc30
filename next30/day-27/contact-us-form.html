@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <!--
   Sample external Contact Us form for Next30 Day 27 (Form Handler).
-  This represents a form already hosted on nextinc.xyz. To connect it:
-    1. Create a Form Handler in Marketing Cloud with a Lead data source.
-    2. Map each field below by its `name` attribute (case-sensitive, no spaces).
-    3. Replace [HANDLER-ID] with the id from the handler's "Form Attributes".
-    4. Paste the handler's Tracking Script just before </body>.
-    5. Add this site's domain to the CORS Allowlist in Setup.
+  This represents a form already hosted on nextinc.xyz, wired to Salesforce
+  with an external Form Handler. Two things connect it:
+    1. The <form> carries the handler id and data-uma-forms="true".
+    2. The host script (just before </body>) calls SFDCFormHandler.init(...).
+  Each input's `name` matches the External Field Name mapped in the handler
+  (case-sensitive, no spaces). Add this site's domain to the CORS Allowlist.
 -->
 <html lang="en">
 <head>
@@ -15,7 +15,7 @@
   <style>
     body { font-family: Arial, Helvetica, sans-serif; max-width: 480px; margin: 40px auto; color: #2C3E50; }
     label { display: block; margin: 12px 0 4px; font-weight: bold; }
-    input { width: 100%; padding: 8px; box-sizing: border-box; }
+    input, textarea { width: 100%; padding: 8px; box-sizing: border-box; font-family: inherit; }
     button { margin-top: 16px; padding: 10px 18px; background: #02A550; color: #fff; border: 0; border-radius: 6px; cursor: pointer; }
     .hp { position: absolute; left: -9999px; }  /* honeypot: hidden from humans */
   </style>
@@ -24,25 +24,30 @@
   <h1>Contact Us</h1>
   <p>Tell us about your business and a Next specialist will follow up.</p>
 
-  <form id="[HANDLER-ID]" data-uma-forms="true" method="post">
+  <!-- Copy these form properties into your form tag to submit to Salesforce. -->
+  <form id="MCYEZTMDO2TNGZHJW3ALGRBS3AJI" data-uma-forms="true">
     <label for="firstName">First Name</label>
     <input type="text" id="firstName" name="firstName" required>
 
     <label for="lastName">Last Name</label>
     <input type="text" id="lastName" name="lastName" required>
 
-    <label for="emailAddress">Work Email</label>
-    <input type="email" id="emailAddress" name="emailAddress" required>
+    <label for="email">Work Email</label>
+    <input type="email" id="email" name="email" required>
 
     <label for="company">Company</label>
     <input type="text" id="company" name="company" required>
 
+    <label for="comment">How can we help?</label>
+    <textarea id="comment" name="comment" rows="4"></textarea>
+
     <!-- Honeypot: bots fill this, humans never see it. Any value blocks the submission. -->
-    <input type="text" id="fax" name="fax" class="hp" tabindex="-1" autocomplete="off">
+    <input type="text" id="honeypot" name="honeypot" class="hp" tabindex="-1" autocomplete="off">
 
     <button type="submit">Send Message</button>
   </form>
 
-  <!-- Paste the Form Handler "Tracking Script" here, just before </body>. -->
+  <!-- Insert this host script into your external site page, just before </body>. -->
+  <script async src="https://lp.nextinc.xyz/lp/assets/scripts/external-form-handler-host.min.js" onload="SFDCFormHandler.init('https://lp.nextinc.xyz/lp')"></script>
 </body>
 </html>
