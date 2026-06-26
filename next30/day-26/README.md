@@ -9,7 +9,7 @@ Add a single Send to a Flow element to the onboarding flow so every finished cus
 
 ## How to use
 1. Build the nurture flow as an **On-Demand Flow** named **Plan Upgrade Nudge**, using `nurture-email-copy.md` for its first email.
-2. In the onboarding flow, after the welcome email, add a **Send to a Flow** element labeled **Nurture Flow** and reference the Plan Upgrade Nudge flow.
+2. In the onboarding flow, after the welcome email, add a **Send to a Flow** element labeled **Nurture** and reference the Plan Upgrade Nudge flow.
 3. Route handed-off customers to **End**, then activate the onboarding flow.
 
 ---
