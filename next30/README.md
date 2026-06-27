@@ -49,11 +49,11 @@ Each day builds on the last, from your first campaign through to AI-assisted mar
 | [13](day-13) | Send an Autoresponder Email - auto-confirm a form submission | In-org build |
 | [14](day-14) | Prevent Duplicate Records - match-or-create logic for clean data | In-org build |
 | [15](day-15) | Quick Email Follow-up - send a fast follow-up to a small list | [Files](day-15) |
-| [16](day-16) | Welcome Series: Field and Segment Logic - set up the driving fields and segment | [Files](day-16) |
-| [17](day-17) | Welcome Series: Personalize the Email - personalize the welcome message | [Files](day-17) |
-| [18](day-18) | Welcome Series: Trigger the Flow and Review the Data - launch and verify the flow | In-org build |
-| [19](day-19) | Welcome Series: Measure Engagement - measure how the series performs | In-org build |
-| [20](day-20) | Welcome Series: Score Change Creates a Task - turn a score change into a sales task | In-org build |
+| [16](day-16) | Field and Segment Logic - set up the driving fields and segment | [Files](day-16) |
+| [17](day-17) | Personalize the Email - personalize the welcome message | [Files](day-17) |
+| [18](day-18) | Trigger the Flow and Review the Data - launch and verify the flow | In-org build |
+| [19](day-19) | Measure Engagement - measure how the series performs | In-org build |
+| [20](day-20) | Score Change Creates a Task - turn a score change into a sales task | In-org build |
 | [21](day-21) | Identify Qualified Leads - score and surface sales-ready leads | [Files](day-21) |
 | [22](day-22) | Set Up and Read a Marketing Object - import and use a custom object | [Files](day-22) |
 | [23](day-23) | Personalize an Email with Handlebars - dynamic content with Handlebars | [Files](day-23) |
@@ -63,7 +63,7 @@ Each day builds on the last, from your first campaign through to AI-assisted mar
 | [27](day-27) | Connect a Website Form to Salesforce - wire an external form to your org | [Files](day-27) |
 | [28](day-28) | Trigger a Survey with the API - trigger a flow over REST to send a survey | In-org build |
 | [29](day-29) | Set Up Agentforce Agents - enable Agentforce and create your first agents | In-org build |
-| [30](day-30) | Build Your First Campaign with Agentforce - draft a campaign with an AI agent | In-org build |
+| [30](day-30) | Build a Campaign with Agentforce - draft a campaign with an AI agent | In-org build |
 
 ---
 

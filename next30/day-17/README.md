@@ -1,4 +1,4 @@
-# Day 17 - Welcome Series: Personalize the Email
+# Day 17 - Personalize the Email
 
 Bring account fields into the data graph and an activation template, then build a personalized welcome email and preview it against your segment.
 

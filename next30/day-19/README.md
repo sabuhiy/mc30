@@ -1,4 +1,4 @@
-# Day 19 - Welcome Series: Measure Engagement
+# Day 19 - Measure Engagement
 
 Turn customer activity into a score with Lead Scoring, then surface that engagement on the contact page for the customer team to see.
 

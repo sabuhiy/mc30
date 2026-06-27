@@ -1,4 +1,4 @@
-# Day 16 - Welcome Series: Field and Segment Logic
+# Day 16 - Field and Segment Logic
 
 Kick off a welcome series: sync the account launch date into Data Cloud and build a segment that finds customers the day after they launch.
 

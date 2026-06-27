@@ -1,4 +1,4 @@
-# Day 20 - Welcome Series: Score Change Creates a Task
+# Day 20 - Score Change Creates a Task
 
 Build a Data Cloud-Triggered Flow that watches the engagement score and opens a follow-up task for the account owner the moment a customer crosses the threshold.
 

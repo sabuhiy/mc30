@@ -1,4 +1,4 @@
-# Day 18 - Welcome Series: Trigger the Flow and Review the Data
+# Day 18 - Trigger the Flow and Review the Data
 
 Send the welcome automatically with a segment-triggered flow, then review the synced records in Data Explorer and the Query Editor.
 

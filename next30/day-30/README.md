@@ -1,4 +1,4 @@
-# Day 30 - Build Your First Campaign with Agentforce
+# Day 30 - Build a Campaign with Agentforce
 
 The finale: brief Agentforce on a real campaign, watch it draft the segment, email, and flow, then review and sign off as the expert you've become.
 
