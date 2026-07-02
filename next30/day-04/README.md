@@ -98,6 +98,6 @@ Abonelik kanalları oluştur, bir preference page yayınla ve onay durumu ayarla
 2. Her lead'in onayını `consent-optin.csv` kullanarak ayarla.
 
 ---
-Yeni misin? 30 günlük Marketing Cloud görevlerine ücretsiz olarak marketingcloud30.com adresinden başla.
+Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
 
 </details>

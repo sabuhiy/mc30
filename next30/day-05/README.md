@@ -58,6 +58,6 @@ Marketing Cloud Next'te ilk hedef kitle segmentini oluştur: görsel segment olu
 Bu görevin indirilebilir dosyası yok. Her şeyi görevi izleyerek kendi Marketing Cloud org'unda oluşturursun.
 
 ---
-Yeni misin? 30 günlük Marketing Cloud görevlerine ücretsiz olarak marketingcloud30.com adresinden başla.
+Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
 
 </details>

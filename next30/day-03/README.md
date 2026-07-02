@@ -148,6 +148,6 @@ Yaz kampanyası e-postasını marka kuralları, Content Builder öğeleri ve tem
 3. Sonucunu `email-final.png` ve `email-sample.html` ile karşılaştır.
 
 ---
-Yeni misin? 30 günlük Marketing Cloud görevlerine ücretsiz olarak marketingcloud30.com adresinden başla.
+Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
 
 </details>
