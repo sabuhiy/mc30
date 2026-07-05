@@ -1,8 +1,8 @@
 # Day 15 - Quick Email Follow-up
 
-<sub>🌐 English · Español · Français · 日本語 · Türkçe — expand a section</sub>
+<sub>🌐 [English](#english) · [Español](#español) · [Français](#français) · [日本語](#日本語) · [Türkçe](#türkçe)</sub>
 
-## Files
+### Files
 | File | Purpose |
 |------|---------|
 | `attendees.csv` | Meeting attendees to import into an actionable list. |
@@ -13,8 +13,7 @@
 |:---:|
 | ![](thank-you-banner.jpg) |
 
-<details open>
-<summary><b>English</b></summary>
+## English
 
 Thank a room full of meeting attendees the same day by importing them into an actionable list and sending a personalized email, no waiting on Identity Resolution.
 
@@ -26,10 +25,9 @@ Thank a room full of meeting attendees the same day by importing them into an ac
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
 
-</details>
+## Español
 
-<details>
-<summary><b>Español</b> — Día 15 - Seguimiento rápido por email</summary>
+**Día 15 - Seguimiento rápido por email**
 
 Agradece a una sala llena de asistentes a una reunión el mismo día importándolos a una actionable list y enviando un email personalizado, sin esperar a Identity Resolution.
 
@@ -41,10 +39,9 @@ Agradece a una sala llena de asistentes a una reunión el mismo día importándo
 ---
 ¿Eres nuevo aquí? Comienza los retos de 30 días de Marketing Cloud gratis en marketingcloud30.com
 
-</details>
+## Français
 
-<details>
-<summary><b>Français</b> — Jour 15 - Suivi rapide par email</summary>
+**Jour 15 - Suivi rapide par email**
 
 Remerciez le jour même une salle entière de participants à une réunion en les important dans une actionable list et en envoyant un email personnalisé, sans attendre Identity Resolution.
 
@@ -56,10 +53,9 @@ Remerciez le jour même une salle entière de participants à une réunion en le
 ---
 Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours sur marketingcloud30.com
 
-</details>
+## 日本語
 
-<details>
-<summary><b>日本語</b> — Day 15 - メールでの迅速なフォローアップ</summary>
+**Day 15 - メールでの迅速なフォローアップ**
 
 会議の参加者たちを actionable list にインポートし、パーソナライズしたメールを送ることで、Identity Resolution を待たずにその日のうちにお礼を伝えます。
 
@@ -71,10 +67,9 @@ Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours 
 ---
 はじめての方へ。30日間の Marketing Cloud チャレンジを marketingcloud30.com で無料で始めましょう。
 
-</details>
+## Türkçe
 
-<details>
-<summary><b>Türkçe</b> — Gün 15 - Hızlı E-posta Takibi</summary>
+**Gün 15 - Hızlı E-posta Takibi**
 
 Bir toplantıya katılan bir oda dolusu kişiye, onları bir actionable list'e içe aktarıp kişiselleştirilmiş bir e-posta göndererek, Identity Resolution'ı beklemeden aynı gün teşekkür et.
 
@@ -85,5 +80,3 @@ Bir toplantıya katılan bir oda dolusu kişiye, onları bir actionable list'e i
 
 ---
 Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
-
-</details>

@@ -1,8 +1,8 @@
 # Day 23 - Personalize an Email with Handlebars
 
-<sub>🌐 English · Español · Français · 日本語 · Türkçe — expand a section</sub>
+<sub>🌐 [English](#english) · [Español](#español) · [Français](#français) · [日本語](#日本語) · [Türkçe](#türkçe)</sub>
 
-## Files
+### Files
 | File | Purpose |
 |------|---------|
 | `set-password.png, add-card.png, connect-rewards.png, update-prefs.png, all-set.png` | The five hero banners, one per setup step. |
@@ -11,8 +11,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | ![](set-password.png) | ![](add-card.png) | ![](connect-rewards.png) | ![](update-prefs.png) | ![](all-set.png) |
 
-<details open>
-<summary><b>English</b></summary>
+## English
 
 Read each customer's account-setup progress from a Marketing Object and swap the email's hero banner and body copy to match their next unfinished step.
 
@@ -27,10 +26,9 @@ Requires the AccountSetupProgress__mo Marketing Object from the previous challen
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
 
-</details>
+## Español
 
-<details>
-<summary><b>Español</b> — Día 23 - Personalizar un email con Handlebars</summary>
+**Día 23 - Personalizar un email con Handlebars**
 
 Lee el progreso de configuración de la cuenta de cada cliente desde un Marketing Object y cambia el hero banner y el texto del email para que coincidan con su siguiente paso sin terminar.
 
@@ -45,10 +43,9 @@ Requiere el Marketing Object AccountSetupProgress__mo del reto anterior.
 ---
 ¿Eres nuevo aquí? Comienza los retos de 30 días de Marketing Cloud gratis en marketingcloud30.com
 
-</details>
+## Français
 
-<details>
-<summary><b>Français</b> — Jour 23 - Personnaliser un email avec Handlebars</summary>
+**Jour 23 - Personnaliser un email avec Handlebars**
 
 Lisez la progression de configuration du compte de chaque client depuis un Marketing Object et changez le hero banner et le texte de l'email pour correspondre à leur prochaine étape inachevée.
 
@@ -63,10 +60,9 @@ Nécessite le Marketing Object AccountSetupProgress__mo du challenge précédent
 ---
 Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours sur marketingcloud30.com
 
-</details>
+## 日本語
 
-<details>
-<summary><b>日本語</b> — Day 23 - Handlebars でメールをパーソナライズする</summary>
+**Day 23 - Handlebars でメールをパーソナライズする**
 
 各顧客のアカウント設定の進捗を Marketing Object から読み取り、メールの hero banner と本文コピーを、次の未完了ステップに合わせて切り替えます。
 
@@ -81,10 +77,9 @@ Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours 
 ---
 はじめての方へ。30日間の Marketing Cloud チャレンジを marketingcloud30.com で無料で始めましょう。
 
-</details>
+## Türkçe
 
-<details>
-<summary><b>Türkçe</b> — Gün 23 - Handlebars ile Bir E-postayı Kişiselleştir</summary>
+**Gün 23 - Handlebars ile Bir E-postayı Kişiselleştir**
 
 Her müşterinin hesap kurulum ilerlemesini bir Marketing Object'ten oku ve e-postanın hero banner'ını ve gövde metnini, bir sonraki tamamlanmamış adımına uyacak şekilde değiştir.
 
@@ -98,5 +93,3 @@ Her müşterinin hesap kurulum ilerlemesini bir Marketing Object'ten oku ve e-po
 
 ---
 Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
-
-</details>

@@ -1,9 +1,8 @@
 # Day 25 - Optimize Send Time with Einstein
 
-<sub>🌐 English · Español · Français · 日本語 · Türkçe — expand a section</sub>
+<sub>🌐 [English](#english) · [Español](#español) · [Français](#français) · [日本語](#日本語) · [Türkçe](#türkçe)</sub>
 
-<details open>
-<summary><b>English</b></summary>
+## English
 
 Enable Einstein Send Time Optimization and Engagement Frequency so each customer hears from Next at the right moment, and not too often.
 
@@ -12,10 +11,9 @@ This challenge has no downloadable files. You build everything in your Marketing
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
 
-</details>
+## Español
 
-<details>
-<summary><b>Español</b> — Día 25 - Optimizar la hora de envío con Einstein</summary>
+**Día 25 - Optimizar la hora de envío con Einstein**
 
 Habilita Einstein Send Time Optimization y Engagement Frequency para que cada cliente reciba mensajes de Next en el momento adecuado, y no con demasiada frecuencia.
 
@@ -24,10 +22,9 @@ Este reto no tiene archivos descargables. Construyes todo en tu org de Marketing
 ---
 ¿Eres nuevo aquí? Comienza los retos de 30 días de Marketing Cloud gratis en marketingcloud30.com
 
-</details>
+## Français
 
-<details>
-<summary><b>Français</b> — Jour 25 - Optimiser l'heure d'envoi avec Einstein</summary>
+**Jour 25 - Optimiser l'heure d'envoi avec Einstein**
 
 Activez Einstein Send Time Optimization et Engagement Frequency pour que chaque client reçoive des messages de Next au bon moment, et pas trop souvent.
 
@@ -36,10 +33,9 @@ Ce challenge ne comporte aucun fichier téléchargeable. Vous construisez tout d
 ---
 Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours sur marketingcloud30.com
 
-</details>
+## 日本語
 
-<details>
-<summary><b>日本語</b> — Day 25 - Einstein で送信時間を最適化する</summary>
+**Day 25 - Einstein で送信時間を最適化する**
 
 Einstein Send Time Optimization と Engagement Frequency を有効にして、各顧客が Next から適切な瞬間に、頻繁すぎない形で連絡を受け取れるようにします。
 
@@ -48,10 +44,9 @@ Einstein Send Time Optimization と Engagement Frequency を有効にして、�
 ---
 はじめての方へ。30日間の Marketing Cloud チャレンジを marketingcloud30.com で無料で始めましょう。
 
-</details>
+## Türkçe
 
-<details>
-<summary><b>Türkçe</b> — Gün 25 - Einstein ile Gönderim Zamanını Optimize Et</summary>
+**Gün 25 - Einstein ile Gönderim Zamanını Optimize Et**
 
 Einstein Send Time Optimization ve Engagement Frequency'yi etkinleştir ki her müşteri Next'ten doğru anda, çok sık olmadan haber alsın.
 
@@ -59,5 +54,3 @@ Bu görevin indirilebilir dosyası yok. Her şeyi görevi izleyerek kendi Market
 
 ---
 Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
-
-</details>

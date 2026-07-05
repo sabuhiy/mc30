@@ -1,9 +1,8 @@
 # Day 1 - Initial Platform Setup
 
-<sub>🌐 English · Español · Français · 日本語 · Türkçe — expand a section</sub>
+<sub>🌐 [English](#english) · [Español](#español) · [Français](#français) · [日本語](#日本語) · [Türkçe](#türkçe)</sub>
 
-<details open>
-<summary><b>English</b></summary>
+## English
 
 Set up Marketing Cloud Next from scratch: install the Marketing Data Kit, configure Identity Resolution, and build a Data Graph.
 
@@ -12,10 +11,9 @@ This challenge has no downloadable files. You build everything in your Marketing
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
 
-</details>
+## Español
 
-<details>
-<summary><b>Español</b> — Día 1 - Configuración inicial de la plataforma</summary>
+**Día 1 - Configuración inicial de la plataforma**
 
 Configura Marketing Cloud Next desde cero: instala el Marketing Data Kit, configura Identity Resolution y crea un Data Graph.
 
@@ -24,10 +22,9 @@ Este reto no tiene archivos descargables. Construyes todo en tu org de Marketing
 ---
 ¿Eres nuevo aquí? Comienza los retos de 30 días de Marketing Cloud gratis en marketingcloud30.com
 
-</details>
+## Français
 
-<details>
-<summary><b>Français</b> — Jour 1 - Configuration initiale de la plateforme</summary>
+**Jour 1 - Configuration initiale de la plateforme**
 
 Configurez Marketing Cloud Next depuis zéro : installez le Marketing Data Kit, configurez Identity Resolution et créez un Data Graph.
 
@@ -36,10 +33,9 @@ Ce challenge ne comporte aucun fichier téléchargeable. Vous construisez tout d
 ---
 Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours sur marketingcloud30.com
 
-</details>
+## 日本語
 
-<details>
-<summary><b>日本語</b> — Day 1 - 初期プラットフォーム設定</summary>
+**Day 1 - 初期プラットフォーム設定**
 
 Marketing Cloud Next をゼロから設定します。Marketing Data Kit をインストールし、Identity Resolution を構成し、Data Graph を構築します。
 
@@ -48,10 +44,9 @@ Marketing Cloud Next をゼロから設定します。Marketing Data Kit をイ�
 ---
 はじめての方へ。30日間の Marketing Cloud チャレンジを marketingcloud30.com で無料で始めましょう。
 
-</details>
+## Türkçe
 
-<details>
-<summary><b>Türkçe</b> — Gün 1 - İlk Platform Kurulumu</summary>
+**Gün 1 - İlk Platform Kurulumu**
 
 Marketing Cloud Next'i sıfırdan kur: Marketing Data Kit'i yükle, Identity Resolution'ı yapılandır ve bir Data Graph oluştur.
 
@@ -59,5 +54,3 @@ Bu görevin indirilebilir dosyası yok. Her şeyi görevi izleyerek kendi Market
 
 ---
 Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
-
-</details>

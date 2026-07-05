@@ -1,9 +1,8 @@
 # Day 2 - Domain Authentication
 
-<sub>🌐 English · Español · Français · 日本語 · Türkçe — expand a section</sub>
+<sub>🌐 [English](#english) · [Español](#español) · [Français](#français) · [日本語](#日本語) · [Türkçe](#türkçe)</sub>
 
-<details open>
-<summary><b>English</b></summary>
+## English
 
 Authenticate your sending domain with DKIM and configure a branded landing page domain for your Marketing Cloud Next org.
 
@@ -12,10 +11,9 @@ This challenge has no downloadable files. You build everything in your Marketing
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
 
-</details>
+## Español
 
-<details>
-<summary><b>Español</b> — Día 2 - Autenticación de dominio</summary>
+**Día 2 - Autenticación de dominio**
 
 Autentica tu dominio de envío con DKIM y configura un dominio de página de aterrizaje con marca para tu org de Marketing Cloud Next.
 
@@ -24,10 +22,9 @@ Este reto no tiene archivos descargables. Construyes todo en tu org de Marketing
 ---
 ¿Eres nuevo aquí? Comienza los retos de 30 días de Marketing Cloud gratis en marketingcloud30.com
 
-</details>
+## Français
 
-<details>
-<summary><b>Français</b> — Jour 2 - Authentification du domaine</summary>
+**Jour 2 - Authentification du domaine**
 
 Authentifiez votre domaine d'envoi avec DKIM et configurez un domaine de landing page personnalisé pour votre org Marketing Cloud Next.
 
@@ -36,10 +33,9 @@ Ce challenge ne comporte aucun fichier téléchargeable. Vous construisez tout d
 ---
 Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours sur marketingcloud30.com
 
-</details>
+## 日本語
 
-<details>
-<summary><b>日本語</b> — Day 2 - ドメイン認証</summary>
+**Day 2 - ドメイン認証**
 
 送信ドメインを DKIM で認証し、Marketing Cloud Next 組織用にブランド化されたランディングページドメインを構成します。
 
@@ -48,10 +44,9 @@ Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours 
 ---
 はじめての方へ。30日間の Marketing Cloud チャレンジを marketingcloud30.com で無料で始めましょう。
 
-</details>
+## Türkçe
 
-<details>
-<summary><b>Türkçe</b> — Gün 2 - Alan Adı Kimlik Doğrulama</summary>
+**Gün 2 - Alan Adı Kimlik Doğrulama**
 
 Gönderim alan adını DKIM ile doğrula ve Marketing Cloud Next org'un için markalı bir landing page alan adı yapılandır.
 
@@ -59,5 +54,3 @@ Bu görevin indirilebilir dosyası yok. Her şeyi görevi izleyerek kendi Market
 
 ---
 Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
-
-</details>

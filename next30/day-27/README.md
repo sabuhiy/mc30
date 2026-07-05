@@ -1,14 +1,13 @@
 # Day 27 - Connect a Website Form to Salesforce
 
-<sub>🌐 English · Español · Français · 日本語 · Türkçe — expand a section</sub>
+<sub>🌐 [English](#english) · [Español](#español) · [Français](#français) · [日本語](#日本語) · [Türkçe](#türkçe)</sub>
 
-## Files
+### Files
 | File | Purpose |
 |------|---------|
 | `contact-us-form.html` | A sample external Contact Us form (the starting point) to connect with a Form Handler. |
 
-<details open>
-<summary><b>English</b></summary>
+## English
 
 Pipe submissions from a form already on Next's website into Salesforce with a Form Handler, no rebuild of the website required.
 
@@ -20,10 +19,9 @@ Pipe submissions from a form already on Next's website into Salesforce with a Fo
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
 
-</details>
+## Español
 
-<details>
-<summary><b>Español</b> — Día 27 - Conectar un formulario del sitio web a Salesforce</summary>
+**Día 27 - Conectar un formulario del sitio web a Salesforce**
 
 Canaliza los envíos de un formulario que ya está en el sitio web de Next hacia Salesforce con un Form Handler, sin necesidad de reconstruir el sitio web.
 
@@ -35,10 +33,9 @@ Canaliza los envíos de un formulario que ya está en el sitio web de Next hacia
 ---
 ¿Eres nuevo aquí? Comienza los retos de 30 días de Marketing Cloud gratis en marketingcloud30.com
 
-</details>
+## Français
 
-<details>
-<summary><b>Français</b> — Jour 27 - Connecter un formulaire du site web à Salesforce</summary>
+**Jour 27 - Connecter un formulaire du site web à Salesforce**
 
 Acheminez les soumissions d'un formulaire déjà présent sur le site web de Next vers Salesforce avec un Form Handler, sans reconstruction du site web.
 
@@ -50,10 +47,9 @@ Acheminez les soumissions d'un formulaire déjà présent sur le site web de Nex
 ---
 Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours sur marketingcloud30.com
 
-</details>
+## 日本語
 
-<details>
-<summary><b>日本語</b> — Day 27 - ウェブサイトのフォームを Salesforce に接続する</summary>
+**Day 27 - ウェブサイトのフォームを Salesforce に接続する**
 
 Next のウェブサイトにすでにあるフォームからの送信を Form Handler で Salesforce に流し込みます。ウェブサイトの再構築は不要です。
 
@@ -65,10 +61,9 @@ Next のウェブサイトにすでにあるフォームからの送信を Form 
 ---
 はじめての方へ。30日間の Marketing Cloud チャレンジを marketingcloud30.com で無料で始めましょう。
 
-</details>
+## Türkçe
 
-<details>
-<summary><b>Türkçe</b> — Gün 27 - Bir Web Sitesi Formunu Salesforce'a Bağla</summary>
+**Gün 27 - Bir Web Sitesi Formunu Salesforce'a Bağla**
 
 Next'in web sitesinde zaten bulunan bir formdan gelen gönderimleri, web sitesini yeniden inşa etmeden bir Form Handler ile Salesforce'a aktar.
 
@@ -79,5 +74,3 @@ Next'in web sitesinde zaten bulunan bir formdan gelen gönderimleri, web sitesin
 
 ---
 Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
-
-</details>

@@ -1,14 +1,13 @@
 # Day 24 - Send One Email in Two Languages
 
-<sub>🌐 English · Español · Français · 日本語 · Türkçe — expand a section</sub>
+<sub>🌐 [English](#english) · [Español](#español) · [Français](#français) · [日本語](#日本語) · [Türkçe](#türkçe)</sub>
 
-## Files
+### Files
 | File | Purpose |
 |------|---------|
 | `contacts.csv` | Contacts with First Name, Last Name, Email, Country, Account, and a Preferred Language column (13 en_US / 5 fr). |
 
-<details open>
-<summary><b>English</b></summary>
+## English
 
 Contacts with a Preferred Language value (en_US / fr), used to send one email in both French and English.
 
@@ -19,10 +18,9 @@ Contacts with a Preferred Language value (en_US / fr), used to send one email in
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
 
-</details>
+## Español
 
-<details>
-<summary><b>Español</b> — Día 24 - Envía un email en dos idiomas</summary>
+**Día 24 - Envía un email en dos idiomas**
 
 Contactos con un valor de Preferred Language (en_US / fr), usados para enviar un email tanto en francés como en inglés.
 
@@ -33,10 +31,9 @@ Contactos con un valor de Preferred Language (en_US / fr), usados para enviar un
 ---
 ¿Eres nuevo aquí? Comienza los retos de 30 días de Marketing Cloud gratis en marketingcloud30.com
 
-</details>
+## Français
 
-<details>
-<summary><b>Français</b> — Jour 24 - Envoyez un email en deux langues</summary>
+**Jour 24 - Envoyez un email en deux langues**
 
 Contacts avec une valeur Preferred Language (en_US / fr), utilisés pour envoyer un email en français et en anglais.
 
@@ -47,10 +44,9 @@ Contacts avec une valeur Preferred Language (en_US / fr), utilisés pour envoyer
 ---
 Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours sur marketingcloud30.com
 
-</details>
+## 日本語
 
-<details>
-<summary><b>日本語</b> — Day 24 - 1通のメールを2言語で送信する</summary>
+**Day 24 - 1通のメールを2言語で送信する**
 
 Preferred Language の値（en_US / fr）を持つ連絡先。1通のメールをフランス語と英語の両方で送信するために使います。
 
@@ -61,10 +57,9 @@ Preferred Language の値（en_US / fr）を持つ連絡先。1通のメール�
 ---
 はじめての方へ。30日間の Marketing Cloud チャレンジを marketingcloud30.com で無料で始めましょう。
 
-</details>
+## Türkçe
 
-<details>
-<summary><b>Türkçe</b> — Gün 24 - Bir E-postayı İki Dilde Gönder</summary>
+**Gün 24 - Bir E-postayı İki Dilde Gönder**
 
 Preferred Language değerine (en_US / fr) sahip kişiler; bir e-postayı hem Fransızca hem İngilizce göndermek için kullanılır.
 
@@ -74,5 +69,3 @@ Preferred Language değerine (en_US / fr) sahip kişiler; bir e-postayı hem Fra
 
 ---
 Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
-
-</details>

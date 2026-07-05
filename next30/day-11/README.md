@@ -1,9 +1,8 @@
 # Day 11 - Website Engagement Tracking
 
-<sub>🌐 English · Español · Français · 日本語 · Türkçe — expand a section</sub>
+<sub>🌐 [English](#english) · [Español](#español) · [Français](#français) · [日本語](#日本語) · [Türkçe](#türkçe)</sub>
 
-<details open>
-<summary><b>English</b></summary>
+## English
 
 Turn on website tracking for your Marketing Cloud landing pages with a consent banner and Data Cloud.
 
@@ -12,10 +11,9 @@ This challenge has no downloadable files. You build everything in your Marketing
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
 
-</details>
+## Español
 
-<details>
-<summary><b>Español</b> — Día 11 - Seguimiento de la interacción en el sitio web</summary>
+**Día 11 - Seguimiento de la interacción en el sitio web**
 
 Activa el seguimiento web para tus landing pages de Marketing Cloud con un consent banner y Data Cloud.
 
@@ -24,10 +22,9 @@ Este reto no tiene archivos descargables. Construyes todo en tu org de Marketing
 ---
 ¿Eres nuevo aquí? Comienza los retos de 30 días de Marketing Cloud gratis en marketingcloud30.com
 
-</details>
+## Français
 
-<details>
-<summary><b>Français</b> — Jour 11 - Suivi de l'engagement sur le site web</summary>
+**Jour 11 - Suivi de l'engagement sur le site web**
 
 Activez le suivi web pour vos landing pages Marketing Cloud avec un consent banner et Data Cloud.
 
@@ -36,10 +33,9 @@ Ce challenge ne comporte aucun fichier téléchargeable. Vous construisez tout d
 ---
 Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours sur marketingcloud30.com
 
-</details>
+## 日本語
 
-<details>
-<summary><b>日本語</b> — Day 11 - ウェブサイトエンゲージメントトラッキング</summary>
+**Day 11 - ウェブサイトエンゲージメントトラッキング**
 
 consent banner と Data Cloud を使って、Marketing Cloud のランディングページでウェブサイトトラッキングを有効にします。
 
@@ -48,10 +44,9 @@ consent banner と Data Cloud を使って、Marketing Cloud のランディン�
 ---
 はじめての方へ。30日間の Marketing Cloud チャレンジを marketingcloud30.com で無料で始めましょう。
 
-</details>
+## Türkçe
 
-<details>
-<summary><b>Türkçe</b> — Gün 11 - Web Sitesi Etkileşim Takibi</summary>
+**Gün 11 - Web Sitesi Etkileşim Takibi**
 
 Marketing Cloud landing page'lerin için bir consent banner ve Data Cloud ile web sitesi takibini aç.
 
@@ -59,5 +54,3 @@ Bu görevin indirilebilir dosyası yok. Her şeyi görevi izleyerek kendi Market
 
 ---
 Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
-
-</details>

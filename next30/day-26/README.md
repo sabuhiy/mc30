@@ -1,14 +1,13 @@
 # Day 26 - Hand Off to a Nurture Flow
 
-<sub>🌐 English · Español · Français · 日本語 · Türkçe — expand a section</sub>
+<sub>🌐 [English](#english) · [Español](#español) · [Français](#français) · [日本語](#日本語) · [Türkçe](#türkçe)</sub>
 
-## Files
+### Files
 | File | Purpose |
 |------|---------|
 | `nurture-email-copy.md` | Email copy for the nurture flow. Email name: **Plan Upgrade Nudge**. |
 
-<details open>
-<summary><b>English</b></summary>
+## English
 
 Add a single Send to a Flow element to the onboarding flow so every finished customer rolls into one reusable nurture program that runs on its own.
 
@@ -20,10 +19,9 @@ Add a single Send to a Flow element to the onboarding flow so every finished cus
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
 
-</details>
+## Español
 
-<details>
-<summary><b>Español</b> — Día 26 - Entregar a un flujo de nurture</summary>
+**Día 26 - Entregar a un flujo de nurture**
 
 Añade un único elemento Send to a Flow al flujo de onboarding para que cada cliente que termina pase a un único programa de nurture reutilizable que funciona por su cuenta.
 
@@ -35,10 +33,9 @@ Añade un único elemento Send to a Flow al flujo de onboarding para que cada cl
 ---
 ¿Eres nuevo aquí? Comienza los retos de 30 días de Marketing Cloud gratis en marketingcloud30.com
 
-</details>
+## Français
 
-<details>
-<summary><b>Français</b> — Jour 26 - Confier à un flow de nurture</summary>
+**Jour 26 - Confier à un flow de nurture**
 
 Ajoutez un seul élément Send to a Flow au flow d'onboarding pour que chaque client terminé bascule dans un unique programme de nurture réutilisable qui tourne tout seul.
 
@@ -50,10 +47,9 @@ Ajoutez un seul élément Send to a Flow au flow d'onboarding pour que chaque cl
 ---
 Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours sur marketingcloud30.com
 
-</details>
+## 日本語
 
-<details>
-<summary><b>日本語</b> — Day 26 - nurture フローに引き渡す</summary>
+**Day 26 - nurture フローに引き渡す**
 
 オンボーディングフローに単一の Send to a Flow 要素を追加して、完了した各顧客が、自ら稼働する1つの再利用可能な nurture プログラムに移行するようにします。
 
@@ -65,10 +61,9 @@ Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours 
 ---
 はじめての方へ。30日間の Marketing Cloud チャレンジを marketingcloud30.com で無料で始めましょう。
 
-</details>
+## Türkçe
 
-<details>
-<summary><b>Türkçe</b> — Gün 26 - Bir Nurture Flow'una Devret</summary>
+**Gün 26 - Bir Nurture Flow'una Devret**
 
 Onboarding flow'una tek bir Send to a Flow öğesi ekle ki tamamlayan her müşteri, kendi başına çalışan tek bir yeniden kullanılabilir nurture programına geçsin.
 
@@ -79,5 +74,3 @@ Onboarding flow'una tek bir Send to a Flow öğesi ekle ki tamamlayan her müşt
 
 ---
 Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
-
-</details>

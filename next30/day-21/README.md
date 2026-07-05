@@ -1,14 +1,13 @@
 # Day 21 - Identify Qualified Leads
 
-<sub>🌐 English · Español · Français · 日本語 · Türkçe — expand a section</sub>
+<sub>🌐 [English](#english) · [Español](#español) · [Français](#français) · [日本語](#日本語) · [Türkçe](#türkçe)</sub>
 
-## Files
+### Files
 | File | Purpose |
 |------|---------|
 | `overall-marketing-raw-score.sql` | Calculated Insight SQL (Data Cloud / Data 360) for the overall lead score. |
 
-<details open>
-<summary><b>English</b></summary>
+## English
 
 Combine fit and engagement into one overall lead score, then build a flow that automatically qualifies the warmest leads for the BDR team.
 
@@ -18,10 +17,9 @@ Combine fit and engagement into one overall lead score, then build a flow that a
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
 
-</details>
+## Español
 
-<details>
-<summary><b>Español</b> — Día 21 - Identificar leads cualificados</summary>
+**Día 21 - Identificar leads cualificados**
 
 Combina fit y engagement en una única puntuación general de lead, luego construye un flujo que cualifica automáticamente los leads más cálidos para el equipo BDR.
 
@@ -31,10 +29,9 @@ Combina fit y engagement en una única puntuación general de lead, luego constr
 ---
 ¿Eres nuevo aquí? Comienza los retos de 30 días de Marketing Cloud gratis en marketingcloud30.com
 
-</details>
+## Français
 
-<details>
-<summary><b>Français</b> — Jour 21 - Identifier les leads qualifiés</summary>
+**Jour 21 - Identifier les leads qualifiés**
 
 Combinez fit et engagement en un seul score global de lead, puis construisez un flow qui qualifie automatiquement les leads les plus chauds pour l'équipe BDR.
 
@@ -44,10 +41,9 @@ Combinez fit et engagement en un seul score global de lead, puis construisez un 
 ---
 Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours sur marketingcloud30.com
 
-</details>
+## 日本語
 
-<details>
-<summary><b>日本語</b> — Day 21 - 有望なリードを特定する</summary>
+**Day 21 - 有望なリードを特定する**
 
 fit と engagement を1つの総合リードスコアにまとめ、最も熱いリードを BDR チーム向けに自動で有望と判定するフローを構築します。
 
@@ -57,10 +53,9 @@ fit と engagement を1つの総合リードスコアにまとめ、最も熱い
 ---
 はじめての方へ。30日間の Marketing Cloud チャレンジを marketingcloud30.com で無料で始めましょう。
 
-</details>
+## Türkçe
 
-<details>
-<summary><b>Türkçe</b> — Gün 21 - Nitelikli Lead'leri Belirle</summary>
+**Gün 21 - Nitelikli Lead'leri Belirle**
 
 Fit ve engagement'ı tek bir genel lead puanında birleştir, ardından en sıcak lead'leri BDR ekibi için otomatik olarak nitelendiren bir flow oluştur.
 
@@ -69,5 +64,3 @@ Fit ve engagement'ı tek bir genel lead puanında birleştir, ardından en sıca
 
 ---
 Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
-
-</details>

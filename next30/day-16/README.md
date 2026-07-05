@@ -1,14 +1,13 @@
 # Day 16 - Field and Segment Logic
 
-<sub>🌐 English · Español · Français · 日本語 · Türkçe — expand a section</sub>
+<sub>🌐 [English](#english) · [Español](#español) · [Français](#français) · [日本語](#日本語) · [Türkçe](#türkçe)</sub>
 
-## Files
+### Files
 | File | Purpose |
 |------|---------|
 | `accounts-and-contacts.csv` | Accounts and contacts with launch dates, imported together via the Data Import Wizard. |
 
-<details open>
-<summary><b>English</b></summary>
+## English
 
 Kick off a welcome series: sync the account launch date into Data Cloud and build a segment that finds customers the day after they launch.
 
@@ -18,10 +17,9 @@ Kick off a welcome series: sync the account launch date into Data Cloud and buil
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
 
-</details>
+## Español
 
-<details>
-<summary><b>Español</b> — Día 16 - Lógica de campos y segments</summary>
+**Día 16 - Lógica de campos y segments**
 
 Inicia una serie de bienvenida: sincroniza la fecha de lanzamiento de la cuenta a Data Cloud y construye un segment que encuentre a los clientes el día después de que se lancen.
 
@@ -31,10 +29,9 @@ Inicia una serie de bienvenida: sincroniza la fecha de lanzamiento de la cuenta 
 ---
 ¿Eres nuevo aquí? Comienza los retos de 30 días de Marketing Cloud gratis en marketingcloud30.com
 
-</details>
+## Français
 
-<details>
-<summary><b>Français</b> — Jour 16 - Logique de champs et de segments</summary>
+**Jour 16 - Logique de champs et de segments**
 
 Lancez une série de bienvenue : synchronisez la date de lancement du compte vers Data Cloud et construisez un segment qui trouve les clients le lendemain de leur lancement.
 
@@ -44,10 +41,9 @@ Lancez une série de bienvenue : synchronisez la date de lancement du compte ver
 ---
 Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours sur marketingcloud30.com
 
-</details>
+## 日本語
 
-<details>
-<summary><b>日本語</b> — Day 16 - フィールドと segment のロジック</summary>
+**Day 16 - フィールドと segment のロジック**
 
 ウェルカムシリーズを始めましょう。アカウントの開始日を Data Cloud に同期し、顧客が稼働を始めた翌日に見つける segment を構築します。
 
@@ -57,10 +53,9 @@ Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours 
 ---
 はじめての方へ。30日間の Marketing Cloud チャレンジを marketingcloud30.com で無料で始めましょう。
 
-</details>
+## Türkçe
 
-<details>
-<summary><b>Türkçe</b> — Gün 16 - Alan ve Segment Mantığı</summary>
+**Gün 16 - Alan ve Segment Mantığı**
 
 Bir karşılama serisi başlat: hesabın başlangıç tarihini Data Cloud'a senkronize et ve müşterileri başladıklarının ertesi günü bulan bir segment oluştur.
 
@@ -69,5 +64,3 @@ Bir karşılama serisi başlat: hesabın başlangıç tarihini Data Cloud'a senk
 
 ---
 Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
-
-</details>

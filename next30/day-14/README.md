@@ -1,9 +1,8 @@
 # Day 14 - Prevent Duplicate Records
 
-<sub>🌐 English · Español · Français · 日本語 · Türkçe — expand a section</sub>
+<sub>🌐 [English](#english) · [Español](#español) · [Français](#français) · [日本語](#日本語) · [Türkçe](#türkçe)</sub>
 
-<details open>
-<summary><b>English</b></summary>
+## English
 
 Add a duplicate check to your giveaway form's flow so repeat entrants reuse their existing record instead of creating a new lead.
 
@@ -12,10 +11,9 @@ This challenge has no downloadable files. You build everything in your Marketing
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
 
-</details>
+## Español
 
-<details>
-<summary><b>Español</b> — Día 14 - Prevenir registros duplicados</summary>
+**Día 14 - Prevenir registros duplicados**
 
 Añade una comprobación de duplicados al flujo de tu formulario de sorteo para que los participantes recurrentes reutilicen su registro existente en lugar de crear un nuevo lead.
 
@@ -24,10 +22,9 @@ Este reto no tiene archivos descargables. Construyes todo en tu org de Marketing
 ---
 ¿Eres nuevo aquí? Comienza los retos de 30 días de Marketing Cloud gratis en marketingcloud30.com
 
-</details>
+## Français
 
-<details>
-<summary><b>Français</b> — Jour 14 - Prévenir les doublons</summary>
+**Jour 14 - Prévenir les doublons**
 
 Ajoutez une vérification de doublons au flow de votre formulaire de jeu-concours pour que les participants récurrents réutilisent leur record existant au lieu de créer un nouveau lead.
 
@@ -36,10 +33,9 @@ Ce challenge ne comporte aucun fichier téléchargeable. Vous construisez tout d
 ---
 Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours sur marketingcloud30.com
 
-</details>
+## 日本語
 
-<details>
-<summary><b>日本語</b> — Day 14 - 重複レコードを防ぐ</summary>
+**Day 14 - 重複レコードを防ぐ**
 
 プレゼントフォームのフローに重複チェックを追加し、再応募者が新しいリードを作成する代わりに既存のレコードを再利用するようにします。
 
@@ -48,10 +44,9 @@ Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours 
 ---
 はじめての方へ。30日間の Marketing Cloud チャレンジを marketingcloud30.com で無料で始めましょう。
 
-</details>
+## Türkçe
 
-<details>
-<summary><b>Türkçe</b> — Gün 14 - Yinelenen Kayıtları Önleme</summary>
+**Gün 14 - Yinelenen Kayıtları Önleme**
 
 Çekiliş formunun flow'una bir yinelenen kayıt kontrolü ekle ki tekrar katılanlar yeni bir lead oluşturmak yerine mevcut kayıtlarını yeniden kullansın.
 
@@ -59,5 +54,3 @@ Bu görevin indirilebilir dosyası yok. Her şeyi görevi izleyerek kendi Market
 
 ---
 Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
-
-</details>

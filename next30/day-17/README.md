@@ -1,8 +1,8 @@
 # Day 17 - Personalize the Email
 
-<sub>🌐 English · Español · Français · 日本語 · Türkçe — expand a section</sub>
+<sub>🌐 [English](#english) · [Español](#español) · [Français](#français) · [日本語](#日本語) · [Türkçe](#türkçe)</sub>
 
-## Files
+### Files
 | File | Purpose |
 |------|---------|
 | `welcome-email-copy.md` | Copy for the welcome email. |
@@ -12,8 +12,7 @@
 |:---:|
 | ![](hero-welcome.png) |
 
-<details open>
-<summary><b>English</b></summary>
+## English
 
 Bring account fields into the data graph and an activation template, then build a personalized welcome email and preview it against your segment.
 
@@ -23,10 +22,9 @@ Bring account fields into the data graph and an activation template, then build 
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
 
-</details>
+## Español
 
-<details>
-<summary><b>Español</b> — Día 17 - Personalizar el email</summary>
+**Día 17 - Personalizar el email**
 
 Lleva los campos de la cuenta al data graph y a un activation template, luego construye un email de bienvenida personalizado y previsualízalo contra tu segment.
 
@@ -36,10 +34,9 @@ Lleva los campos de la cuenta al data graph y a un activation template, luego co
 ---
 ¿Eres nuevo aquí? Comienza los retos de 30 días de Marketing Cloud gratis en marketingcloud30.com
 
-</details>
+## Français
 
-<details>
-<summary><b>Français</b> — Jour 17 - Personnaliser l'email</summary>
+**Jour 17 - Personnaliser l'email**
 
 Amenez les champs du compte dans le data graph et un activation template, puis construisez un email de bienvenue personnalisé et prévisualisez-le contre votre segment.
 
@@ -49,10 +46,9 @@ Amenez les champs du compte dans le data graph et un activation template, puis c
 ---
 Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours sur marketingcloud30.com
 
-</details>
+## 日本語
 
-<details>
-<summary><b>日本語</b> — Day 17 - メールをパーソナライズする</summary>
+**Day 17 - メールをパーソナライズする**
 
 アカウントのフィールドを data graph と activation template に取り込み、パーソナライズしたウェルカムメールを作成して、セグメントに対してプレビューします。
 
@@ -62,10 +58,9 @@ Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours 
 ---
 はじめての方へ。30日間の Marketing Cloud チャレンジを marketingcloud30.com で無料で始めましょう。
 
-</details>
+## Türkçe
 
-<details>
-<summary><b>Türkçe</b> — Gün 17 - E-postayı Kişiselleştirme</summary>
+**Gün 17 - E-postayı Kişiselleştirme**
 
 Hesap alanlarını data graph'a ve bir activation template'e getir, ardından kişiselleştirilmiş bir karşılama e-postası oluştur ve segment'ine karşı önizle.
 
@@ -74,5 +69,3 @@ Hesap alanlarını data graph'a ve bir activation template'e getir, ardından ki
 
 ---
 Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
-
-</details>

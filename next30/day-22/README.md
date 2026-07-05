@@ -1,8 +1,8 @@
 # Day 22 - Set Up and Read a Marketing Object
 
-<sub>🌐 English · Español · Français · 日本語 · Türkçe — expand a section</sub>
+<sub>🌐 [English](#english) · [Español](#español) · [Français](#français) · [日本語](#日本語) · [Türkçe](#türkçe)</sub>
 
-## Files
+### Files
 | File | Purpose |
 |------|---------|
 | `account-setup-progress.csv` | Marketing Object import file: Email plus the four step flags and a StepsCompleted total. |
@@ -12,8 +12,7 @@
 |:---:|
 | ![](account-setup-banner.png) |
 
-<details open>
-<summary><b>English</b></summary>
+## English
 
 Load account-setup progress into a Marketing Object, then read it from a simple email that shows each customer where their setup stands.
 
@@ -24,10 +23,9 @@ Load account-setup progress into a Marketing Object, then read it from a simple 
 ---
 New here? Start the 30-day Marketing Cloud challenges for free at marketingcloud30.com
 
-</details>
+## Español
 
-<details>
-<summary><b>Español</b> — Día 22 - Configurar y leer un Marketing Object</summary>
+**Día 22 - Configurar y leer un Marketing Object**
 
 Carga el progreso de configuración de la cuenta en un Marketing Object, luego léelo desde un email sencillo que muestra a cada cliente dónde está su configuración.
 
@@ -38,10 +36,9 @@ Carga el progreso de configuración de la cuenta en un Marketing Object, luego l
 ---
 ¿Eres nuevo aquí? Comienza los retos de 30 días de Marketing Cloud gratis en marketingcloud30.com
 
-</details>
+## Français
 
-<details>
-<summary><b>Français</b> — Jour 22 - Configurer et lire un Marketing Object</summary>
+**Jour 22 - Configurer et lire un Marketing Object**
 
 Chargez la progression de configuration du compte dans un Marketing Object, puis lisez-la depuis un email simple qui montre à chaque client où en est sa configuration.
 
@@ -52,10 +49,9 @@ Chargez la progression de configuration du compte dans un Marketing Object, puis
 ---
 Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours sur marketingcloud30.com
 
-</details>
+## 日本語
 
-<details>
-<summary><b>日本語</b> — Day 22 - Marketing Object を設定して読み取る</summary>
+**Day 22 - Marketing Object を設定して読み取る**
 
 アカウント設定の進捗を Marketing Object に読み込み、各顧客に設定の進み具合を示すシンプルなメールからそれを読み取ります。
 
@@ -66,10 +62,9 @@ Nouveau ici ? Démarrez gratuitement les challenges Marketing Cloud de 30 jours 
 ---
 はじめての方へ。30日間の Marketing Cloud チャレンジを marketingcloud30.com で無料で始めましょう。
 
-</details>
+## Türkçe
 
-<details>
-<summary><b>Türkçe</b> — Gün 22 - Bir Marketing Object Kur ve Oku</summary>
+**Gün 22 - Bir Marketing Object Kur ve Oku**
 
 Hesap kurulum ilerlemesini bir Marketing Object'e yükle, ardından her müşteriye kurulumunun nerede olduğunu gösteren basit bir e-postadan onu oku.
 
@@ -79,5 +74,3 @@ Hesap kurulum ilerlemesini bir Marketing Object'e yükle, ardından her müşter
 
 ---
 Yeni misin? 30 günlük Marketing Cloud programlarına ücretsiz olarak marketingcloud30.com adresinden başla.
-
-</details>
