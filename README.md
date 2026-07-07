@@ -29,7 +29,6 @@
 |---------|-------|----------------|
 | [**Next30**](next30) | Marketing Cloud Next - campaigns, data, personalization, and AI with Agentforce | Per-day folders ([index](next30/README.md)) |
 | [**SQL30**](sql30) | SQL in Marketing Cloud | Sample datasets (CSV) |
-| [**AMPscript30**](ampscript30) | AMPscript for dynamic content | Datasets and email templates |
 
 > Looking for the full catalog, including programs without downloadable files? See **[all challenges](https://marketingcloud30.com/challenges/)** on the site.
 
@@ -46,8 +45,7 @@ mc30/
 ├── next30/            Marketing Cloud Next - 30 days, one folder each (day-01 … day-30)
 │   ├── README.md      Day-by-day index
 │   └── day-NN/        That day's focus + any downloadable resources
-├── sql30/             SQL in Marketing Cloud - sample datasets
-└── ampscript30/       AMPscript - datasets and email templates
+└── sql30/             SQL in Marketing Cloud - sample datasets
 ```
 
 ## Contributing
