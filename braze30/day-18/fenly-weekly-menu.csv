@@ -1,0 +1,17 @@
+id,name,diet,cuisine,price,prep_minutes,image_url,week
+coconut_lentil_curry,Coconut lentil curry,vegan,indian,12.49,30,https://braze30--marketingcloud30com.netlify.app/images/braze30-menu/coconut_lentil_curry.png,week-2
+smoky_black_bean_tacos,Smoky black bean tacos,vegan,mexican,9.49,25,https://braze30--marketingcloud30com.netlify.app/images/braze30-menu/smoky_black_bean_tacos.png,week-2
+sesame_tofu_noodles,Sesame tofu noodles,vegan,asian,10.29,20,https://braze30--marketingcloud30com.netlify.app/images/braze30-menu/sesame_tofu_noodles.png,week-2
+roasted_veg_tagine,Roasted veg tagine,vegan,mediterranean,10.99,35,https://braze30--marketingcloud30com.netlify.app/images/braze30-menu/roasted_veg_tagine.png,week-2
+lemon_herb_chickpea_bowls,Lemon herb chickpea bowls,vegetarian,mediterranean,11.99,25,https://braze30--marketingcloud30com.netlify.app/images/braze30-menu/lemon_herb_chickpea_bowls.png,week-2
+halloumi_harvest_salad,Halloumi harvest salad,vegetarian,mediterranean,9.99,15,https://braze30--marketingcloud30com.netlify.app/images/braze30-menu/halloumi_harvest_salad.png,week-2
+spinach_ricotta_gnocchi,Spinach ricotta gnocchi,vegetarian,italian,10.49,20,https://braze30--marketingcloud30com.netlify.app/images/braze30-menu/spinach_ricotta_gnocchi.png,week-2
+paneer_tikka_wraps,Paneer tikka wraps,vegetarian,indian,10.89,30,https://braze30--marketingcloud30com.netlify.app/images/braze30-menu/paneer_tikka_wraps.png,week-2
+miso_salmon_with_greens,Miso salmon with greens,pescatarian,asian,13.99,25,https://braze30--marketingcloud30com.netlify.app/images/braze30-menu/miso_salmon_with_greens.png,week-2
+cod_puttanesca,Cod puttanesca,pescatarian,italian,11.79,30,https://braze30--marketingcloud30com.netlify.app/images/braze30-menu/cod_puttanesca.png,week-2
+shrimp_tacos_mango_salsa,Shrimp tacos with mango salsa,pescatarian,mexican,12.29,20,https://braze30--marketingcloud30com.netlify.app/images/braze30-menu/shrimp_tacos_mango_salsa.png,week-2
+tuna_poke_bowls,Tuna poke bowls,pescatarian,asian,12.79,15,https://braze30--marketingcloud30com.netlify.app/images/braze30-menu/tuna_poke_bowls.png,week-2
+weeknight_steak_fajitas,Weeknight steak fajitas,omnivore,mexican,13.49,30,https://braze30--marketingcloud30com.netlify.app/images/braze30-menu/weeknight_steak_fajitas.png,week-2
+turkey_chili,Turkey chili,omnivore,american,9.89,35,https://braze30--marketingcloud30com.netlify.app/images/braze30-menu/turkey_chili.png,week-2
+chicken_pesto_pasta,Chicken pesto pasta,omnivore,italian,10.79,25,https://braze30--marketingcloud30com.netlify.app/images/braze30-menu/chicken_pesto_pasta.png,week-2
+honey_garlic_pork_stir_fry,Honey garlic pork stir-fry,omnivore,asian,11.29,20,https://braze30--marketingcloud30com.netlify.app/images/braze30-menu/honey_garlic_pork_stir_fry.png,week-2

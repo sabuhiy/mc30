@@ -1,0 +1,6 @@
+external_id,first_name,last_name,email,email_subscribe,home_city,time_zone,diet_preference,signup_source,signup_date
+FNL-100201,Maya,Okafor,maya.okafor@ferndalemail.com,subscribed,Chicago,America/Chicago,vegetarian,farmers_market,2026-10-17
+FNL-100202,Theo,Lindqvist,theo.lindqvist@tidepost.net,subscribed,Chicago,America/Chicago,omnivore,farmers_market,2026-10-17
+FNL-100203,Priya,Raman,priya.raman@orchardinbox.com,subscribed,Toronto,America/Toronto,vegan,farmers_market,2026-10-18
+FNL-100204,Marcus,Bell,marcus.bell@copperleafmail.com,subscribed,Toronto,America/Toronto,omnivore,farmers_market,2026-10-18
+FNL-100205,Ines,Carvalho,ines.carvalho@sundialmail.net,subscribed,Chicago,America/Chicago,pescatarian,farmers_market,2026-10-18

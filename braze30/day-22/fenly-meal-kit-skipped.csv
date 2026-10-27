@@ -1,0 +1,11 @@
+external_id,name,time,meal_kit_skipped.properties.skip_week,meal_kit_skipped.properties.delivery_day
+FNL-100000,meal_kit_skipped,2026-10-23T18:30:00Z,2026-11-05,Thursday
+FNL-100003,meal_kit_skipped,2026-10-23T18:30:00Z,2026-11-02,Monday
+FNL-100015,meal_kit_skipped,2026-10-23T18:30:00Z,2026-11-02,Monday
+FNL-100060,meal_kit_skipped,2026-10-23T18:30:00Z,2026-11-03,Tuesday
+FNL-100070,meal_kit_skipped,2026-10-23T18:30:00Z,2026-11-03,Tuesday
+FNL-100024,meal_kit_skipped,2026-10-23T18:30:00Z,2026-11-04,Wednesday
+FNL-100035,meal_kit_skipped,2026-10-23T18:30:00Z,2026-11-04,Wednesday
+FNL-100014,meal_kit_skipped,2026-10-23T18:30:00Z,2026-11-05,Thursday
+FNL-100018,meal_kit_skipped,2026-10-23T18:30:00Z,2026-11-05,Thursday
+FNL-100002,meal_kit_skipped,2026-10-23T18:30:00Z,2026-11-06,Friday

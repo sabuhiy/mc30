@@ -1,0 +1,7 @@
+id,delivery_day,next_window,spots_left
+monday,Monday,7-9 am,5
+tuesday,Tuesday,12-2 pm,6
+wednesday,Wednesday,9-11 am,3
+thursday,Thursday,8-10 am,4
+friday,Friday,3-5 pm,1
+saturday,Saturday,,0
