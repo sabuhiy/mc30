@@ -1,14 +1,14 @@
-# Day 20 - Show Each Customer's Next Delivery Slot
+# Day 20 - Put the Weekly Menu in a Catalog
 
 ## English
 
-Upload the delivery-slot table as a Braze Catalog and have the Week 2 email show each customer the next open slot on their delivery day.
+Load the weekly menu into a Braze Catalog and have the email read each hero's name, price and photo from it.
 
 **Files:**
 
-- `fenly_delivery_slots.csv`: 6 delivery days, 4 columns: id, delivery_day, next_window, spots_left. Saturday is fully booked (0 spots), so its email aborts.
+- `fenly-weekly-menu.csv`: 16 meals, four per diet, 8 columns: id, name, diet, cuisine, price, prep_minutes, image_url, week. Each image_url points to a hosted 600×400 photo tile.
 
-Upload it with Data Settings > Catalogs > Create new catalog > Upload CSV. Leave every column as String. The underscores in the file name give the Catalog the name fenly_delivery_slots.
+Upload it with Data Settings > Catalogs > Create new catalog > Upload CSV. Set price and prep_minutes to Number, and name the Catalog fenly_weekly_menu (Braze prefills the name with hyphens).
 
 ---
 New here? Start the 30-day challenges for free at marketingcloud30.com

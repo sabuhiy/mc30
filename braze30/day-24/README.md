@@ -1,10 +1,10 @@
-# Day 24 - Write Data Back With the User Update Step
+# Day 24 - The Skip-a-Week Save With Canvas Context
 
 ## English
 
-Add a User Update step to the welcome Canvas that sets welcome_complete and logs welcome_completed, then build a week-two check-in Canvas that starts on that event.
+Build an action-based Canvas that starts on meal_kit_skipped, stores the skipped date in a context variable, and sends a reminder the day before that delivery.
 
-**Files:** none today. The User Update JSON is copy-ready on the challenge page.
+**Files:** none today. The challenge uses the meal_kit_skipped events imported on Day 15. The Liquid is copy-ready on the challenge page.
 
 ---
 New here? Start the 30-day challenges for free at marketingcloud30.com

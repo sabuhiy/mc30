@@ -1,10 +1,10 @@
-# Day 23 - The Skip-a-Week Save With Canvas Context
+# Day 23 - Retarget Recipe Clickers with Link Aliases
 
 ## English
 
-Build an action-based Canvas that starts on meal_kit_skipped, stores the skipped date in a context variable, and sends a reminder the day before that delivery.
+Point the Week 2 hero button at each customer's recipe, name the link hero_recipe, and build a segment of everyone who clicks it.
 
-**Files:** none today. The challenge uses the meal_kit_skipped events imported on Day 22. The Liquid is copy-ready on the challenge page.
+**Files:** none today. The challenge uses the Week 2 email from the earlier days.
 
 ---
 New here? Start the 30-day challenges for free at marketingcloud30.com

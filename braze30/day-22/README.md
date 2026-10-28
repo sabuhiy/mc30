@@ -1,15 +1,14 @@
-# Day 22 - Log Events and Purchases Without an SDK
+# Day 22 - Show Each Customer's Next Delivery Slot
 
 ## English
 
-Import skipped weeks and orders as custom events, so they land on each customer's profile.
+Upload the delivery-slot table as a Braze Catalog and have the Week 2 email show each customer the next open slot on their delivery day.
 
 **Files:**
 
-- `fenly-meal-kit-skipped.csv`: 10 meal_kit_skipped events, 5 columns: external_id, name, time, meal_kit_skipped.properties.skip_week, meal_kit_skipped.properties.delivery_day.
-- `fenly-orders.csv`: 20 order_placed events, 6 columns: external_id, name, time, order_placed.properties.order_id, order_placed.properties.total_value, order_placed.properties.currency.
+- `fenly_delivery_slots.csv`: 6 delivery days, 4 columns: id, delivery_day, next_window, spots_left. Saturday is fully booked (0 spots), so its email aborts.
 
-Import each with Audience > Import Users > Import users > Custom events. Choose Update existing users only and keep Validate file before importing on.
+Upload it with Data Settings > Catalogs > Create new catalog > Upload CSV. Leave every column as String. The underscores in the file name give the Catalog the name fenly_delivery_slots.
 
 ---
 New here? Start the 30-day challenges for free at marketingcloud30.com

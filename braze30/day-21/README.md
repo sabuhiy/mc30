@@ -1,10 +1,10 @@
-# Day 21 - Retarget Recipe Clickers with Link Aliases
+# Day 21 - This Week's Picks with Catalog Selections
 
 ## English
 
-Point the Week 2 hero button at each customer's recipe, name the link hero_recipe, and build a segment of everyone who clicks it.
+Filter the menu Catalog by each customer's diet with a Catalog Selection, and list the three cheapest meals with a Liquid for loop.
 
-**Files:** none today. The challenge uses the Week 2 email from the earlier days.
+**Files:** none for today. It uses the Catalog from [Day 20](../day-20/). The selection settings and the loop Liquid are on the challenge page.
 
 ---
 New here? Start the 30-day challenges for free at marketingcloud30.com

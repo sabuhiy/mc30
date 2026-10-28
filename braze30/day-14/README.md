@@ -1,10 +1,10 @@
-# Day 14 - Keep the List Healthy with a Sunset Segment
+# Day 14 - Write Data Back With the User Update Step
 
 ## English
 
-Build a sunset segment for customers with no order and no open in 90 days, and keep them out of next week's menu email.
+Add a User Update step to the welcome Canvas that sets welcome_complete and logs welcome_completed, then build a week-two check-in Canvas that starts on that event.
 
-**Files:** none for today. The segment rules and expected counts are on the challenge page, and you build on the customer data and the Week 1 campaign from earlier challenges.
+**Files:** none today. The User Update JSON is copy-ready on the challenge page.
 
 ---
 New here? Start the 30-day challenges for free at marketingcloud30.com

@@ -1,10 +1,10 @@
-# Day 17 - Conditional Content Blocks
+# Day 17 - Personalize the Menu Email by Diet
 
 ## English
 
-Write a "more picks" section once per diet in Content Blocks, and let Liquid insert the right one for each customer.
+Use Liquid if, elsif and else to give each diet its own hero recipe, and reuse the pick in the subject line and the button.
 
-**Files:** none for today. The block copy, the block style and the insertion Liquid are on the challenge page.
+**Files:** none for today. The Liquid, the email copy and the test users are on the challenge page.
 
 ---
 New here? Start the 30-day challenges for free at marketingcloud30.com

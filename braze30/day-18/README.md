@@ -1,14 +1,10 @@
-# Day 18 - Put the Weekly Menu in a Catalog
+# Day 18 - Countdowns and Guards: Date Math and abort_message
 
 ## English
 
-Load the weekly menu into a Braze Catalog and have the email read each hero's name, price and photo from it.
+Count down to each customer's box lock with Liquid date math, and stop the email with abort_message when there's no delivery day.
 
-**Files:**
-
-- `fenly-weekly-menu.csv`: 16 meals, four per diet, 8 columns: id, name, diet, cuisine, price, prep_minutes, image_url, week. Each image_url points to a hosted 600×400 photo tile.
-
-Upload it with Data Settings > Catalogs > Create new catalog > Upload CSV. Set price and prep_minutes to Number, and name the Catalog fenly_weekly_menu (Braze prefills the name with hyphens).
+**Files:** none for today. The Liquid, the delivery promise copy and the countdown table are on the challenge page.
 
 ---
 New here? Start the 30-day challenges for free at marketingcloud30.com
